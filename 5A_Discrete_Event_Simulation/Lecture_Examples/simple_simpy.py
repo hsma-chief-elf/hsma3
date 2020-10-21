@@ -96,6 +96,9 @@ def activity_generator_weight_loss(env, mean_consult, nurse, p_id):
         # statement)
         yield env.timeout(sampled_consultation_time)
         
+        # Let's print when the patient leaves the consultation
+        print ("***Patient ", p_id, " finished at ", env.now, sep="")
+        
 # We defined the generator functions above.  Here's where we'll get everything
 # running
 # First we set up a new SimPy simulation environment
