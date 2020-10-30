@@ -9,7 +9,7 @@
 
 1. A lecture introducting you to the theory and practice of forecasting
 2. A series of short code-along lectures in Jupyter notebooks
-3. Two short practical exercises to give you experience of visualising time series and producing simple forecasts. 
+3. Two 20 minute practical exercises to give you experience of visualising time series and producing simple forecasts. 
 
 ## Learning outcomes
 
@@ -43,15 +43,20 @@ Jupyter will then open.
 If you are experiencing issues with Jupyter-Lab on your personal computer then you can also run the notebooks in google colab.  Use the links below to launch them
 
 ## Code along lectures
-* Code along 1: Loading time series using pandas
+* Code along 1: Loading time series using pandas [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma-master/hsma/blob/master/12_forecasting/code_along_lectures/01_pandas_time_series.ipynb)
 * Code along 2: Exploring time series [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma-master/hsma/blob/master/12_forecasting/code_along_lectures/02_exploring_ts.ipynb)
-
 * Code along 3: Simple forecasting [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma-master/hsma/blob/master/12_forecasting/code_along_lectures/03_benchmark_forecasts.ipynb)
 
 
-## Exercises
+## Practical Exercises
 * Exercise 1: Exploring time series [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma-master/hsma/blob/master/12_forecasting/exercises/Practical_1.ipynb)
-* 
 * Exercise 2: Simple forecasting [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma-master/hsma/blob/master/12_forecasting/exercises/Practical_2.ipynb)
+
+## Solutions to Exercises
+
+> These notebooks provide example solutions to the problems set.  Feel free to work through them.  We all learn in different ways. It is up to you how you choose to learn either by having a go at the exercises or by working through the code provided.  Remember you can always try the code with your own data!  Good luck.
+
+* Exercise 1: Exploring time series [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma-master/hsma/blob/master/12_forecasting/exercises/Practical_1_SOLUTIONS.ipynb)
+* Exercise 2: Simple forecasting [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma-master/hsma/blob/master/12_forecasting/exercises/Practical_2_SOLUTIONS.ipynb)
 
 
