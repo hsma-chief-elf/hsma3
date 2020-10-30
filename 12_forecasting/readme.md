@@ -25,7 +25,7 @@ You are provided with a conda environment (see binder/environment.yml) that you 
 
 1. Open an anaconda prompt (or terminal on Mac and Linux) in the same directory as the course files.  Run the following command
 
-   * `conda env create -f binder/environment.yml`
+   * `conda env create -f environment.yml`
 
 2. Conda will resolve the enviornment and ask if you wish to install it.  Answer 'y'. Installation will take several minutes.  It installs an environment called `hsma_forecast`.  You need to activate it.
 
@@ -36,3 +36,22 @@ You are provided with a conda environment (see binder/environment.yml) that you 
    * `jupyter-lab`
 
 Jupyter will then open.
+
+
+# Launch Notebooks in Google Colab
+
+If you are experiencing issues with Jupyter-Lab on your personal computer then you can also run the notebooks in google colab.  Use the links below to launch them
+
+## Code along lectures
+* Code along 1: Loading time series using pandas
+* Code along 2: Exploring time series [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma-master/hsma/blob/master/12_forecasting/code_along_lectures/02_exploring_ts.ipynb)
+
+* Code along 3: Simple forecasting [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma-master/hsma/blob/master/12_forecasting/code_along_lectures/03_benchmark_forecasts.ipynb)
+
+
+## Exercises
+* Exercise 1: Exploring time series [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma-master/hsma/blob/master/12_forecasting/exercises/Practical_1.ipynb)
+* 
+* Exercise 2: Simple forecasting [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma-master/hsma/blob/master/12_forecasting/exercises/Practical_2.ipynb)
+
+
