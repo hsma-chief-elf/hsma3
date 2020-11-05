@@ -1,0 +1,601 @@
+ClientID,ReferralDate,ReferralDischarge,ReferralSource,WardTeam,GenSpecialty,ICD10,Desc,Cluster,Setting,Locality_Edit,GenSpecialty_Age
+14,27/02/2011,19/05/2016,Internal referral,Link Centre Area 1,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,7,Community,Locality 1,Adult
+14,13/10/2011,NA,Internal referral,Area 31 Adult Community Sector C,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,7,Community,Locality 1,Adult
+14,23/01/2015,01/01/2016,Internal - Community Mental Health Team (Adult Mental Health),Area 23 PPT,PSYCHOTHERAPY,F603,Emotionally unstable personality disorder,7,Community,Locality 1,Adult
+14,07/11/2016,NA,Community Mental Health Team (Adult),Link Centre Area 1,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,7,Community,Locality 1,Adult
+64,25/11/2014,12/04/2016,Internal - Community Mental Health Team (Adult Mental Health),Area 23 PPT,PSYCHOTHERAPY,F606,Anxious [avoidant] personality disorder,NA,Community,Locality 1,Adult
+64,28/02/2015,14/09/2015,Other,Area 23 MHAR,ADULT MENTAL ILLNESS,F606,Anxious [avoidant] personality disorder,NA,Community,Locality 1,Adult
+64,05/07/2016,04/09/2017,Community Mental Health Team (Adult),Area 23 PPT,PSYCHOTHERAPY,F606,Anxious [avoidant] personality disorder,NA,Community,Locality 1,Adult
+64,11/07/2016,21/08/2016,Choose and Book (GP),Area 24 MHAT,ADULT MENTAL ILLNESS,F606,Anxious [avoidant] personality disorder,NA,Community,Locality 1,Adult
+64,27/05/2016,NA,Community Mental Health Team (Adult),Area 12 CMHT,ADULT MENTAL ILLNESS,F606,Anxious [avoidant] personality disorder,NA,Community,Locality 2,Adult
+64,20/08/2017,NA,Community Mental Health Team (Adult),Link Centre Area 1,ADULT MENTAL ILLNESS,F606,Anxious [avoidant] personality disorder,NA,Community,Locality 1,Adult
+89,05/06/2008,NA,Other,Area 26 CMHT,ADULT MENTAL ILLNESS,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,19/03/2013,27/07/2015,Internal - Inpatient Service (Adult Mental Health),Personality Disorders Service,PSYCHOTHERAPY,F609,"Personality disorder, unspecified",8,Community,Whole County,Adult
+89,06/01/2015,06/01/2015,Other Acute secondary care specialty,Area 30 Liaison Service,LIAISON PSYCHIATRY,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,08/02/2015,08/02/2015,Other Acute secondary care specialty,Area 30 Liaison Service,LIAISON PSYCHIATRY,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,09/05/2015,09/05/2015,Accident And Emergency Department,Area 30 Liaison Service,LIAISON PSYCHIATRY,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,03/03/2015,11/03/2015,Accident And Emergency Department,Area 30 Liaison Service,LIAISON PSYCHIATRY,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,24/02/2015,24/02/2015,Internal - Community Mental Health Team (Adult Mental Health),Area 30 Liaison Service,LIAISON PSYCHIATRY,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,22/06/2015,23/06/2015,Community Mental Health Team (Adult),Area 30 AMHP,ADULT MENTAL ILLNESS,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,19/07/2015,20/07/2015,Emergency Medical Unit,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,29/06/2015,07/07/2015,Inpatient Service (Adult),Area 30 CRHT,ADULT MENTAL ILLNESS,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,05/08/2015,06/08/2015,DGH Wards,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,16/09/2015,19/09/2015,Inpatient Service (Adult),Area 30 CRHT,ADULT MENTAL ILLNESS,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,06/09/2015,07/09/2015,Emergency Medical Unit,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,31/10/2015,01/11/2015,Emergency Medical Unit,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,29/09/2015,29/09/2015,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,16/09/2015,16/09/2015,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,20/09/2015,08/04/2016,DGH Wards,Personality Disorders Service,PSYCHOTHERAPY,F609,"Personality disorder, unspecified",8,Community,Whole County,Adult
+89,17/11/2015,19/11/2015,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,08/03/2016,08/03/2016,Community Mental Health Team (Adult),Area 30 AMHP,ADULT MENTAL ILLNESS,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,04/06/2016,NA,General Medical Practitioner,Gender Identity and Sexual Therapy,ADULT MENTAL ILLNESS,F609,"Personality disorder, unspecified",8,Community,Whole County,Adult
+89,22/06/2016,23/06/2016,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,22/06/2016,24/06/2016,Community Mental Health Team (Adult),Area 30 AMHP,ADULT MENTAL ILLNESS,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,03/06/2016,04/06/2016,Emergency Medical Unit,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,31/07/2016,31/07/2016,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,22/07/2016,23/07/2016,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,11/06/2016,11/06/2016,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,03/09/2016,03/09/2016,Emergency Medical Unit,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,23/09/2016,23/09/2016,Inpatient Service (Adult),Area 35 Emergency Duty Team,ADULT MENTAL ILLNESS,F609,"Personality disorder, unspecified",8,Community,Whole County,Adult
+89,19/09/2016,19/09/2016,DGH Wards,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,04/11/2016,10/11/2016,Community Mental Health Team (Adult),Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,27/10/2016,01/11/2016,Community Mental Health Team (Adult),Area 30 AMHP,ADULT MENTAL ILLNESS,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,15/02/2017,15/02/2017,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,28/01/2017,28/01/2017,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,06/03/2017,12/03/2017,Community Mental Health Team (Adult),Area 30 AMHP,ADULT MENTAL ILLNESS,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,10/01/2017,12/01/2017,Community Mental Health Team (Adult),Area 30 CRHT,ADULT MENTAL ILLNESS,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,01/04/2017,02/04/2017,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,16/04/2017,16/04/2017,General Medical Practitioner,Area 25 MHAT,ADULT MENTAL ILLNESS,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,06/04/2017,06/04/2017,Accident And Emergency Department,Area 30 AMHP,ADULT MENTAL ILLNESS,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,07/09/2017,07/09/2017,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,16/10/2017,16/10/2017,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,23/08/2017,23/08/2017,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,30/09/2017,01/10/2017,Emergency Medical Unit,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,23/12/2017,27/12/2017,Accident And Emergency Department,Area 30 CRHT,ADULT MENTAL ILLNESS,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,25/12/2017,25/12/2017,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,04/10/2017,04/10/2017,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,16/11/2017,16/11/2017,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F609,"Personality disorder, unspecified",8,Community,Locality 2,Adult
+89,23/11/2017,25/11/2017,Accident And Emergency Department,Area 35 Emergency Duty Team,ADULT MENTAL ILLNESS,F609,"Personality disorder, unspecified",8,Community,Whole County,Adult
+244,27/08/2017,10/09/2017,Choose and Book (GP),Area 24 MHAT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 1,Adult
+244,29/10/2017,NA,Other secondary care specialty,Area 31 Adult Community Sector C,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 1,Adult
+291,10/01/2009,14/02/2015,Internal referral,Area 23 MHAR,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,7,Community,Locality 1,Adult
+291,26/09/2015,05/12/2015,General Medical Practitioner,Area 23 PAR,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,7,Community,Locality 1,Adult
+291,22/11/2015,24/01/2016,General Medical Practitioner,Area 23 PAR,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,7,Community,Locality 1,Adult
+356,22/11/2014,01/12/2014,Other,Area 24 MHAT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,NA,Community,Locality 1,Adult
+356,16/10/2015,18/10/2015,Accident And Emergency Department,Area 23 CRHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,NA,Community,Locality 1,Adult
+356,21/10/2015,NA,Inpatient Service (Adult),Area 31 Adult Community Sector C,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,NA,Community,Locality 1,Adult
+356,10/11/2015,NA,Inpatient Service (Adult),Link Centre Area 1,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,NA,Community,Locality 1,Adult
+356,18/11/2015,24/11/2015,Community Mental Health Team (Adult),Area 23 CRHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,NA,Community,Locality 1,Adult
+356,10/12/2015,22/12/2015,Community Mental Health Team (Adult),Area 23 CRHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,NA,Community,Locality 1,Adult
+356,13/10/2015,23/10/2015,Community Mental Health Team (Adult),Area 23 CRHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,NA,Community,Locality 1,Adult
+356,27/07/2016,27/07/2016,DGH Wards,Area 23 Liaison Service,LIAISON PSYCHIATRY,F603,Emotionally unstable personality disorder,NA,Community,Locality 1,Adult
+361,12/12/2014,13/12/2014,Self Referral,Area 23 CRHT,ADULT MENTAL ILLNESS,F61,Mixed and other personality disorders,NA,Community,Locality 1,Adult
+361,05/02/2015,17/02/2015,Other,Area 23 CRHT,ADULT MENTAL ILLNESS,F61,Mixed and other personality disorders,NA,Community,Locality 1,Adult
+361,08/03/2015,08/03/2015,General Medical Practitioner,Area 23 CRHT,ADULT MENTAL ILLNESS,F61,Mixed and other personality disorders,NA,Community,Locality 1,Adult
+361,21/03/2015,03/04/2015,Accident And Emergency Department,Area 23 CRHT,ADULT MENTAL ILLNESS,F61,Mixed and other personality disorders,NA,Community,Locality 1,Adult
+361,21/03/2015,21/03/2015,Other,Area 23 Liaison Service,LIAISON PSYCHIATRY,F61,Mixed and other personality disorders,NA,Community,Locality 1,Adult
+361,21/02/2015,01/03/2015,Other,Area 24 MHAT,ADULT MENTAL ILLNESS,F61,Mixed and other personality disorders,NA,Community,Locality 1,Adult
+361,24/05/2015,29/05/2015,Other Acute secondary care specialty,Area 23 Liaison Service,LIAISON PSYCHIATRY,F61,Mixed and other personality disorders,NA,Community,Locality 1,Adult
+361,24/02/2015,23/05/2015,Internal - Community Mental Health Team (Adult Mental Health),Oasis,PSYCHOTHERAPY,F61,Mixed and other personality disorders,NA,Community,Whole County,Adult
+361,02/04/2015,29/04/2015,Accident And Emergency Department,Link Centre Area 2,ADULT MENTAL ILLNESS,F61,Mixed and other personality disorders,NA,Community,Locality 1,Adult
+361,17/07/2015,12/11/2015,Other,Area 23 Education Link,ADULT MENTAL ILLNESS,F61,Mixed and other personality disorders,NA,Community,Locality 1,Adult
+361,25/06/2015,08/07/2015,DGH Wards,Area 23 Liaison Service,LIAISON PSYCHIATRY,F61,Mixed and other personality disorders,NA,Community,Locality 1,Adult
+361,22/07/2015,24/11/2015,Community Mental Health Team (Adult),Oasis,PSYCHOTHERAPY,F61,Mixed and other personality disorders,NA,Community,Whole County,Adult
+361,23/08/2015,26/08/2015,Community Mental Health Team (Adult),Area 23 MHAR,ADULT MENTAL ILLNESS,F61,Mixed and other personality disorders,NA,Community,Locality 1,Adult
+361,25/05/2016,23/07/2016,Choose and Book (GP),Area 24 MHAT,ADULT MENTAL ILLNESS,F61,Mixed and other personality disorders,NA,Community,Locality 1,Adult
+361,15/08/2016,16/08/2016,Self Referral,Area 23 CRHT,ADULT MENTAL ILLNESS,F61,Mixed and other personality disorders,NA,Community,Locality 1,Adult
+361,04/08/2016,17/08/2016,Community Mental Health Team (Adult),Area 23 Education Link,ADULT MENTAL ILLNESS,F61,Mixed and other personality disorders,NA,Community,Locality 1,Adult
+361,27/08/2016,02/01/2017,Community Mental Health Team (Adult),Link Centre Area 2,ADULT MENTAL ILLNESS,F61,Mixed and other personality disorders,NA,Community,Locality 1,Adult
+361,13/10/2016,13/10/2016,Accident And Emergency Department,Area 23 Liaison Service,LIAISON PSYCHIATRY,F61,Mixed and other personality disorders,NA,Community,Locality 1,Adult
+361,17/09/2016,18/09/2016,Other secondary care specialty,Area 23 CRHT,ADULT MENTAL ILLNESS,F61,Mixed and other personality disorders,NA,Community,Locality 1,Adult
+361,10/11/2016,12/11/2016,Police,Area 35 Liaison and Diversion Team,ADULT MENTAL ILLNESS,F61,Mixed and other personality disorders,NA,Community,Whole County,Adult
+361,25/11/2016,25/11/2016,Accident And Emergency Department,Area 23 CRHT,ADULT MENTAL ILLNESS,F61,Mixed and other personality disorders,NA,Community,Locality 1,Adult
+364,09/05/2015,28/08/2015,Community Mental Health Team (Adult),Area 24 MHAT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 1,Adult
+364,20/06/2015,NA,Community Mental Health Team (Adult),Area 31 Adult Community Sector A,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 1,Adult
+364,05/09/2015,05/09/2015,DGH Wards,Area 23 Liaison Service,LIAISON PSYCHIATRY,F603,Emotionally unstable personality disorder,8,Community,Locality 1,Adult
+364,27/08/2015,28/08/2015,Inpatient Service (Adult),Area 23 CRHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 1,Adult
+364,15/08/2015,16/08/2015,DGH Wards,Area 23 Liaison Service,LIAISON PSYCHIATRY,F603,Emotionally unstable personality disorder,8,Community,Locality 1,Adult
+364,07/10/2015,08/10/2015,Emergency Medical Unit,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F603,Emotionally unstable personality disorder,8,Community,Locality 2,Adult
+364,21/09/2015,22/09/2015,Other secondary care specialty,Area 23 CRHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 1,Adult
+364,25/02/2016,26/02/2016,Accident And Emergency Department,Area 23 CRHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 1,Adult
+364,11/05/2016,11/05/2016,Accident And Emergency Department,Area 32 PAMS,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+364,20/05/2016,24/05/2016,Accident And Emergency Department,Area 23 CRHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 1,Adult
+364,16/06/2016,22/06/2016,Accident And Emergency Department,Area 32 AMHP,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+364,16/07/2016,16/07/2016,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F603,Emotionally unstable personality disorder,8,Community,Locality 2,Adult
+364,02/06/2016,02/06/2016,Accident And Emergency Department,Area 23 Liaison Service,LIAISON PSYCHIATRY,F603,Emotionally unstable personality disorder,8,Community,Locality 1,Adult
+364,13/07/2016,13/07/2016,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F603,Emotionally unstable personality disorder,8,Community,Locality 2,Adult
+364,30/07/2016,30/07/2016,Accident And Emergency Department,Area 23 Liaison Service,LIAISON PSYCHIATRY,F603,Emotionally unstable personality disorder,8,Community,Locality 1,Adult
+364,03/08/2016,04/08/2016,Accident And Emergency Department,Area 23 CRHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 1,Adult
+364,09/09/2016,09/09/2016,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F603,Emotionally unstable personality disorder,8,Community,Locality 2,Adult
+364,05/08/2016,10/10/2017,Community Mental Health Team (Adult),Link Centre Area 2,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 1,Adult
+364,19/01/2017,19/01/2017,Accident And Emergency Department,Area 23 Liaison Service,LIAISON PSYCHIATRY,F603,Emotionally unstable personality disorder,8,Community,Locality 1,Adult
+364,27/11/2016,28/11/2016,Accident And Emergency Department,Area 23 CRHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 1,Adult
+364,01/04/2017,03/04/2017,Out of Area Agency,Area 23 CRHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 1,Adult
+364,10/07/2017,10/07/2017,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F603,Emotionally unstable personality disorder,8,Community,Locality 2,Adult
+364,20/08/2017,20/08/2017,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F603,Emotionally unstable personality disorder,8,Community,Locality 2,Adult
+364,05/01/2018,NA,Community Mental Health Team (Adult),Link Centre Area 3,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 1,Adult
+458,09/02/2017,25/05/2017,Choose and Book (GP),Area 24 MHAT,ADULT MENTAL ILLNESS,F608,Other specific personality disorders,NA,Community,Locality 1,Adult
+471,28/06/2014,30/05/2017,Internal - Inpatient Service (Forensics),Area 3a CMHT,ADULT MENTAL ILLNESS,F602,Dissocial personality disorder,NA,Community,Locality 2,Adult
+471,05/10/2016,06/10/2016,Community Mental Health Team (Adult),Area 27 AMHP,ADULT MENTAL ILLNESS,F602,Dissocial personality disorder,NA,Community,Locality 2,Adult
+471,31/10/2016,07/11/2016,Inpatient Service (Adult),Area 27 AMHP,ADULT MENTAL ILLNESS,F602,Dissocial personality disorder,NA,Community,Locality 2,Adult
+471,06/12/2016,08/12/2016,Inpatient Service (Adult),Area 30 CRHT,ADULT MENTAL ILLNESS,F602,Dissocial personality disorder,NA,Community,Locality 2,Adult
+471,08/02/2017,NA,Community Mental Health Team (Adult),Area 4 CMHT,ADULT MENTAL ILLNESS,F602,Dissocial personality disorder,NA,Community,Locality 2,Adult
+504,01/04/2014,08/05/2017,Other,Area 12 CMHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 2,Adult
+504,27/03/2015,28/03/2015,Internal - Community Mental Health Team (Adult Mental Health),Area 29 CRHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 2,Adult
+504,08/09/2016,09/09/2016,General Medical Practitioner,Area 24 MHAT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 1,Adult
+504,10/04/2017,NA,Community Mental Health Team (Adult),Area 31 Adult Community Sector C,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 1,Adult
+504,27/06/2017,NA,Community Mental Health Team (Adult),Area 23 PPT,PSYCHOTHERAPY,F603,Emotionally unstable personality disorder,8,Community,Locality 1,Adult
+506,27/08/2014,27/09/2015,Internal - Community Mental Health Team (Adult Mental Health),Area 23 PPT,PSYCHOTHERAPY,F603,Emotionally unstable personality disorder,NA,Community,Locality 1,Adult
+506,16/09/2015,07/10/2015,Choose and Book (GP),Area 24 MHAT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,NA,Community,Locality 1,Adult
+708,25/10/2010,12/03/2017,Other,Area 4 CMHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 2,Adult
+708,23/02/2015,02/03/2015,Internal - Community Mental Health Team (Adult Mental Health),Area 30 AMHP,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 2,Adult
+708,03/01/2015,02/03/2015,Internal - Inpatient Service (Adult Mental Health),Area 30 AMHP,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 2,Adult
+708,09/03/2015,10/03/2015,Police,Area 35 Liaison and Diversion Team,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Whole County,Adult
+708,26/02/2015,26/02/2015,Local Authority Social Services,Area 30 CRHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 2,Adult
+708,18/03/2015,18/03/2015,Internal - Inpatient Service (Adult Mental Health),Area 30 AMHP,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 2,Adult
+708,08/03/2015,05/06/2015,Internal - Inpatient Service (Adult Mental Health),Area 30 AMHP,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 2,Adult
+708,25/05/2015,03/06/2015,Internal - Inpatient Service (Adult Mental Health),Area 30 AMHP,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 2,Adult
+708,23/07/2015,23/07/2015,Police,Area 35 Liaison and Diversion Team,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Whole County,Adult
+708,04/08/2015,04/09/2015,Internal - Inpatient Service (Adult Mental Health),Forensics,FORENSIC PSYCHIATRY,F603,Emotionally unstable personality disorder,8,Community,Whole County,Adult
+708,14/11/2015,07/12/2015,Inpatient Service (Adult),Forensics,FORENSIC PSYCHIATRY,F603,Emotionally unstable personality disorder,8,Community,Whole County,Adult
+708,05/10/2015,14/04/2016,Community Mental Health Team (Adult),Personality Disorders Service,PSYCHOTHERAPY,F603,Emotionally unstable personality disorder,8,Community,Whole County,Adult
+708,20/10/2015,21/10/2015,Community Mental Health Team (Adult),Area 35 Emergency Duty Team,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Whole County,Adult
+708,18/10/2015,28/10/2015,Inpatient Service (Adult),Area 30 AMHP,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 2,Adult
+708,07/05/2016,08/05/2016,Police,Area 35 Liaison and Diversion Team,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Whole County,Adult
+708,01/03/2016,05/03/2016,Police,Area 30 CRHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 2,Adult
+708,25/04/2016,25/04/2016,Police,Area 30 AMHP,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 2,Adult
+708,15/07/2016,04/12/2017,Inpatient Service (Forensics),Forensics,FORENSIC PSYCHIATRY,F603,Emotionally unstable personality disorder,8,Community,Whole County,Adult
+708,26/09/2016,29/11/2017,Community Mental Health Team (Adult),IPP Management,FORENSIC PSYCHIATRY,F603,Emotionally unstable personality disorder,8,Community,Whole County,Adult
+820,23/06/2015,21/08/2015,Other,Area 24 MHAT,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 1,Adult
+820,31/07/2015,25/12/2015,Community Mental Health Team (OA),Area 5 Older Peoples Psychology,PSYCHOTHERAPY,NA,NA,7,Community,Locality 2,Adult
+820,16/04/2016,06/11/2016,IAPT Service,Area 5 Older Peoples Psychology,PSYCHOTHERAPY,NA,NA,7,Community,Locality 2,Adult
+901,31/05/2011,03/03/2015,Internal referral,Area 30 Area 29 PPT,PSYCHOTHERAPY,NA,NA,7,Community,Locality 2,Adult
+950,01/03/2014,NA,Internal - Community Mental Health Team (Adult Mental Health),Area 30 Area 29 PPT,PSYCHOTHERAPY,F609,"Personality disorder, unspecified",7,Community,Locality 2,Adult
+950,02/07/2017,03/07/2017,General Medical Practitioner,Area 24 MHAT,ADULT MENTAL ILLNESS,F609,"Personality disorder, unspecified",7,Community,Locality 1,Adult
+984,21/02/2017,22/02/2017,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F603,Emotionally unstable personality disorder,8,Community,Locality 2,Adult
+984,23/04/2017,09/07/2017,Choose and Book (Other),Area 25 MHAT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 2,Adult
+984,10/04/2017,10/04/2017,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F603,Emotionally unstable personality disorder,8,Community,Locality 2,Adult
+984,31/05/2017,NA,Community Mental Health Team (Adult),Area 4 CMHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 2,Adult
+984,23/07/2017,11/08/2017,General Medical Practitioner,Area 30 CRHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 2,Adult
+984,27/09/2017,27/09/2017,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F603,Emotionally unstable personality disorder,8,Community,Locality 2,Adult
+984,20/09/2017,20/09/2017,Community Mental Health Team (Adult),Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F603,Emotionally unstable personality disorder,8,Community,Locality 2,Adult
+984,19/08/2017,07/09/2017,General Medical Practitioner,Area 30 CRHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 2,Adult
+984,05/01/2018,07/01/2018,Accident And Emergency Department,Area 30 CRHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 2,Adult
+1108,25/12/2012,30/05/2015,Internal - Community Mental Health Team (Adult Mental Health),Area 6 MHAR,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 2,Adult
+1108,14/02/2016,25/12/2016,Other Primary Health Care,LD Primary Care Team,LEARNING DISABILITY,NA,NA,7,Community,Whole County,Adult
+1108,20/08/2016,23/06/2017,Other Primary Health Care,LD Intensive Assessment Area 25,LEARNING DISABILITY,NA,NA,7,Community,Locality 2,Adult
+1108,17/09/2017,25/09/2017,General Medical Practitioner,LD District General Hospital,LEARNING DISABILITY,NA,NA,7,Community,Whole County,Adult
+1168,03/01/2015,07/02/2015,Other,Area 24 MHAT,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 1,Adult
+1168,04/03/2015,14/08/2015,Self Referral,WorkWays,ADULT MENTAL ILLNESS,NA,NA,7,Community,Whole County,Adult
+1168,08/01/2015,12/12/2016,Internal - Community Mental Health Team (Adult Mental Health),Area 30 Area 29 PPT,PSYCHOTHERAPY,NA,NA,7,Community,Locality 2,Adult
+1168,21/04/2015,22/04/2015,General Medical Practitioner,Area 24 MHAT,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 1,Adult
+1168,16/05/2017,11/06/2017,Choose and Book (Other),Area 24 MHAT,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 1,Adult
+1168,30/04/2017,NA,Community Mental Health Team (Adult),Area 8 CMHT,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 1,Adult
+1168,28/06/2017,28/06/2017,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,NA,NA,7,Community,Locality 2,Adult
+1168,22/11/2017,NA,Community Mental Health Team (Adult),Area 24 MHAT,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 1,Adult
+1310,07/02/2015,07/02/2015,Other,Area 30 Liaison Service,LIAISON PSYCHIATRY,F600,Paranoid personality disorder,NA,Community,Locality 2,Adult
+1437,31/01/2014,18/01/2017,Internal - Community Mental Health Team (Adult Mental Health),Area 23 MHAR,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 1,Adult
+1437,22/09/2015,29/09/2015,General Medical Practitioner,Area 24 MHAT,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 1,Adult
+1437,02/08/2016,16/09/2016,Community Mental Health Team (Adult),Link Centre Area 2,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 1,Adult
+1490,06/10/2017,13/10/2017,Other Primary Health Care,Area 30 Perinatal Service,PERINATAL,F603,Emotionally unstable personality disorder,NA,Community,Locality 2,Adult
+1540,13/06/2015,24/06/2015,Accident And Emergency Department,Area 29 CRHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,7,Community,Locality 2,Adult
+1540,23/10/2015,23/10/2015,Police,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F603,Emotionally unstable personality disorder,7,Community,Locality 2,Adult
+1540,19/02/2016,20/02/2016,DGH Wards,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F603,Emotionally unstable personality disorder,7,Community,Locality 2,Adult
+1540,08/04/2016,29/05/2016,General Medical Practitioner,Area 25 MHAT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,7,Community,Locality 2,Adult
+1540,25/04/2016,25/04/2016,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F603,Emotionally unstable personality disorder,7,Community,Locality 2,Adult
+1540,10/05/2017,10/05/2017,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F603,Emotionally unstable personality disorder,7,Community,Locality 2,Adult
+1540,14/05/2017,14/05/2017,Police,Area 30 AMHP,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,7,Community,Locality 2,Adult
+1540,20/08/2017,15/10/2017,Choose and Book (GP),Area 25 MHAT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,7,Community,Locality 2,Adult
+1540,18/08/2017,22/08/2017,Community Mental Health Team (Adult),Area 26 CMHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,7,Community,Locality 2,Adult
+1540,21/12/2017,NA,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F603,Emotionally unstable personality disorder,7,Community,Locality 2,Adult
+1542,08/12/2013,22/02/2015,Internal - Community Mental Health Team (Adult Mental Health),Link Centre Area 1,ADULT MENTAL ILLNESS,F607,Dependent personality disorder,7,Community,Locality 1,Adult
+1542,13/02/2014,07/04/2017,Internal - Inpatient Service (Adult Mental Health),Area 31 Adult Community Sector C,ADULT MENTAL ILLNESS,F607,Dependent personality disorder,7,Community,Locality 1,Adult
+1542,29/04/2015,06/05/2016,Internal - Inpatient Service (Adult Mental Health),Clinic 1 (Team),ADULT MENTAL ILLNESS,F607,Dependent personality disorder,7,Community,Locality 2,Adult
+1542,18/04/2015,21/02/2016,Internal - Inpatient Service (Adult Mental Health),Area 30 Area 29 PPT,PSYCHOTHERAPY,F607,Dependent personality disorder,7,Community,Locality 2,Adult
+1542,25/06/2015,21/01/2016,Self Referral,New Leaf,ADULT MENTAL ILLNESS,F607,Dependent personality disorder,7,Community,Whole County,Adult
+1542,02/01/2016,02/04/2016,Self Referral,WorkWays,ADULT MENTAL ILLNESS,F607,Dependent personality disorder,7,Community,Whole County,Adult
+1542,25/02/2016,09/03/2016,Inpatient Service (Adult),Area 23 PPT,PSYCHOTHERAPY,F607,Dependent personality disorder,7,Community,Locality 1,Adult
+1542,19/06/2016,08/07/2016,Community Mental Health Team (Adult),Area 23 CRHT,ADULT MENTAL ILLNESS,F607,Dependent personality disorder,7,Community,Locality 1,Adult
+1542,02/11/2016,02/11/2016,Accident And Emergency Department,Area 23 Liaison Service,LIAISON PSYCHIATRY,F607,Dependent personality disorder,7,Community,Locality 1,Adult
+1542,16/12/2016,25/12/2016,Other secondary care specialty,Area 23 Liaison Service,LIAISON PSYCHIATRY,F607,Dependent personality disorder,7,Community,Locality 1,Adult
+1542,08/12/2016,18/12/2016,Accident And Emergency Department,Area 23 CRHT,ADULT MENTAL ILLNESS,F607,Dependent personality disorder,7,Community,Locality 1,Adult
+1542,26/02/2017,13/08/2017,Crisis Resolution Home Treatment Team,Link Centre Area 9,ADULT MENTAL ILLNESS,F607,Dependent personality disorder,7,Community,Locality 1,Adult
+1542,11/01/2017,18/01/2017,Carer,Area 23 CRHT,ADULT MENTAL ILLNESS,F607,Dependent personality disorder,7,Community,Locality 1,Adult
+1549,31/12/2014,09/01/2015,Internal - Inpatient Service (Adult Mental Health),Area 29 CRHT,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 2,Adult
+1549,29/10/2014,22/11/2014,Internal - Community Mental Health Team (Adult Mental Health),Area 29 PAR,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 2,Adult
+1549,05/02/2015,29/08/2016,General Medical Practitioner,Area 27 MHAR,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 2,Adult
+1549,28/02/2015,01/03/2015,General Medical Practitioner,Area 25 MHAT,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 2,Adult
+1609,25/09/2005,29/05/2017,Internal referral,Area 10 Community Mental Health,ADULT MENTAL ILLNESS,NA,NA,7,Community,"Torbay, South and West Whole County",Adult
+1609,28/05/2017,22/06/2017,Community Mental Health Team (Adult),Area 10 Community Mental Health,ADULT MENTAL ILLNESS,NA,NA,7,Community,"Torbay, South and West Whole County",Adult
+1630,01/03/2015,06/04/2015,Other,Area 11 MHAT,ADULT MENTAL ILLNESS,F61,Mixed and other personality disorders,7,Community,"Torbay, South and West Whole County",Adult
+1653,06/08/2004,08/09/2017,General Medical Practitioner,Area 12 CMHT,ADULT MENTAL ILLNESS,F607,Dependent personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+1653,16/12/2014,10/01/2015,Accident And Emergency Department,Area 32 Liaison Service,LIAISON PSYCHIATRY,F607,Dependent personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+1653,12/01/2015,14/10/2015,Internal - Community Mental Health Team (Adult Mental Health),Area 18 PPT,PSYCHOTHERAPY,F607,Dependent personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+1653,17/12/2014,17/12/2014,Other Acute secondary care specialty,Area 32 Liaison Service,LIAISON PSYCHIATRY,F607,Dependent personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+1653,13/03/2015,14/03/2015,Accident And Emergency Department,Area 32 PAMS,ADULT MENTAL ILLNESS,F607,Dependent personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+1653,25/03/2015,28/03/2015,Internal - Community Mental Health Team (Adult Mental Health),Area 32 AMHP,ADULT MENTAL ILLNESS,F607,Dependent personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+1653,04/03/2015,04/03/2015,Accident And Emergency Department,Area 32 PAMS,ADULT MENTAL ILLNESS,F607,Dependent personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+1653,12/06/2015,13/06/2015,Other Acute secondary care specialty,Area 32 Liaison Service,LIAISON PSYCHIATRY,F607,Dependent personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+1653,06/07/2015,06/07/2015,Accident And Emergency Department,Area 32 Liaison Service,LIAISON PSYCHIATRY,F607,Dependent personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+1653,27/07/2015,27/07/2015,Accident And Emergency Department,Area 32 CRHT,ADULT MENTAL ILLNESS,F607,Dependent personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+1653,06/11/2015,07/11/2015,Accident And Emergency Department,Area 32 Liaison Service,LIAISON PSYCHIATRY,F607,Dependent personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+1653,09/12/2015,09/12/2015,Community Mental Health Team (Adult),Area 32 CRHT,ADULT MENTAL ILLNESS,F607,Dependent personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+1653,25/12/2015,26/12/2015,Accident And Emergency Department,Area 32 Liaison Service,LIAISON PSYCHIATRY,F607,Dependent personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+1653,07/01/2016,09/01/2016,Emergency Medical Unit,Area 32 Liaison Service,LIAISON PSYCHIATRY,F607,Dependent personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+1653,16/03/2016,06/04/2016,Accident And Emergency Department,Area 32 Liaison Service,LIAISON PSYCHIATRY,F607,Dependent personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+1653,05/05/2016,05/05/2016,Accident And Emergency Department,Area 32 Liaison Service,LIAISON PSYCHIATRY,F607,Dependent personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+1653,24/06/2016,24/06/2016,Accident And Emergency Department,Area 32 Liaison Service,LIAISON PSYCHIATRY,F607,Dependent personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+1653,15/06/2016,15/06/2016,Accident And Emergency Department,Area 32 Liaison Service,LIAISON PSYCHIATRY,F607,Dependent personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+1653,11/06/2016,11/06/2016,Emergency Medical Unit,Area 32 Liaison Service,LIAISON PSYCHIATRY,F607,Dependent personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+1653,08/06/2016,08/06/2016,Accident And Emergency Department,Area 32 Liaison Service,LIAISON PSYCHIATRY,F607,Dependent personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+1653,02/09/2016,05/09/2016,Police,Area 35 Liaison and Diversion Team,ADULT MENTAL ILLNESS,F607,Dependent personality disorder,8,Community,Whole County,Adult
+1653,29/12/2016,13/09/2017,Community Mental Health Team (Adult),Personality Disorders Service,PSYCHOTHERAPY,F607,Dependent personality disorder,8,Community,Whole County,Adult
+1653,15/01/2017,NA,Community Mental Health Team (Adult),IPP Management,FORENSIC PSYCHIATRY,F607,Dependent personality disorder,8,Community,Whole County,Adult
+1704,24/09/2004,22/06/2016,General Medical Practitioner,Area 13 MHAR,ADULT MENTAL ILLNESS,NA,NA,8,Community,"Torbay, South and West Whole County",Adult
+1704,08/10/2012,19/09/2016,Internal - Community Mental Health Team (Adult Mental Health),Area 18 PPT,PSYCHOTHERAPY,NA,NA,8,Community,"Torbay, South and West Whole County",Adult
+1745,05/11/2012,22/05/2015,Other,Area 13 MHAR,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,7,Community,"Torbay, South and West Whole County",Adult
+1745,01/04/2015,01/04/2015,Internal - Community Mental Health Team (Adult Mental Health),Area 18 PPT,PSYCHOTHERAPY,F603,Emotionally unstable personality disorder,7,Community,"Torbay, South and West Whole County",Adult
+1745,07/04/2016,02/11/2016,Choose and Book (GP),Area 11 MHAT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,7,Community,"Torbay, South and West Whole County",Adult
+1745,26/06/2016,27/06/2016,General Medical Practitioner,Area 32 CRHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,7,Community,"Torbay, South and West Whole County",Adult
+1745,17/08/2016,NA,Community Mental Health Team (Adult),Area 14 CMHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,7,Community,"Torbay, South and West Whole County",Adult
+1745,10/02/2017,09/11/2017,Other Primary Health Care,Area 32 Perinatal Service,PERINATAL,F603,Emotionally unstable personality disorder,7,Community,"Torbay, South and West Whole County",Adult
+1799,23/07/2015,18/09/2015,General Medical Practitioner,Area 11 MHAT,ADULT MENTAL ILLNESS,NA,NA,8,Community,"Torbay, South and West Whole County",Adult
+1799,13/12/2015,20/12/2015,General Medical Practitioner,Area 11 MHAT,ADULT MENTAL ILLNESS,NA,NA,8,Community,"Torbay, South and West Whole County",Adult
+1799,18/01/2016,26/03/2016,Community Mental Health Team (Adult),Area 15 CMHT,ADULT MENTAL ILLNESS,NA,NA,8,Community,"Torbay, South and West Whole County",Adult
+1799,02/03/2016,24/03/2017,Other service or agency,Area 15 CMHT,ADULT MENTAL ILLNESS,NA,NA,8,Community,"Torbay, South and West Whole County",Adult
+1799,30/07/2016,30/07/2016,General Medical Practitioner,Area 11 MHAT,ADULT MENTAL ILLNESS,NA,NA,8,Community,"Torbay, South and West Whole County",Adult
+1880,06/11/2014,04/08/2016,General Medical Practitioner,Autistic Spectrum Condition Service,ADULT MENTAL ILLNESS,NA,NA,8,Community,Whole County,Adult
+1880,18/05/2015,18/08/2015,Other,Area 11 MHAT,ADULT MENTAL ILLNESS,NA,NA,8,Community,"Torbay, South and West Whole County",Adult
+1880,12/12/2015,06/01/2016,Choose and Book (GP),Area 11 MHAT,ADULT MENTAL ILLNESS,NA,NA,8,Community,"Torbay, South and West Whole County",Adult
+1880,28/01/2016,26/01/2017,Community Mental Health Team (Adult),Area 18 PPT,PSYCHOTHERAPY,NA,NA,8,Community,"Torbay, South and West Whole County",Adult
+1880,20/11/2016,01/08/2017,Community Mental Health Team (Adult),Area 12 CMHT,ADULT MENTAL ILLNESS,NA,NA,8,Community,"Torbay, South and West Whole County",Adult
+1880,23/03/2017,NA,General Medical Practitioner,Autistic Spectrum Condition Service,ADULT MENTAL ILLNESS,NA,NA,8,Community,Whole County,Adult
+1929,21/12/2009,NA,Internal referral,Area 10 Community Mental Health,ADULT MENTAL ILLNESS,NA,NA,7,Community,"Torbay, South and West Whole County",Adult
+1938,07/06/2015,25/06/2015,General Medical Practitioner,Area 32 OPMH Community,OLD AGE PSYCHIATRY,F607,Dependent personality disorder,7,Community,"Torbay, South and West Whole County",Old Age
+1968,15/02/2014,20/06/2016,Internal - Community Mental Health Team (Adult Mental Health),Area 18 PPT,PSYCHOTHERAPY,NA,NA,7,Community,"Torbay, South and West Whole County",Adult
+1968,03/07/2014,25/09/2015,Other,Area 33 MHAR,ADULT MENTAL ILLNESS,NA,NA,7,Community,"Torbay, South and West Whole County",Adult
+2000,26/01/2016,26/01/2016,Accident And Emergency Department,Area 32 Liaison Service,LIAISON PSYCHIATRY,NA,NA,7,Community,"Torbay, South and West Whole County",Adult
+2000,07/02/2016,26/03/2016,Choose and Book (GP),Area 11 MHAT,ADULT MENTAL ILLNESS,NA,NA,7,Community,"Torbay, South and West Whole County",Adult
+2000,27/02/2016,27/02/2016,Education Service,Area 32 Liaison Service,LIAISON PSYCHIATRY,NA,NA,7,Community,"Torbay, South and West Whole County",Adult
+2038,30/08/2013,06/10/2015,General Medical Practitioner,Area 15 OPMH Community,OLD AGE PSYCHIATRY,NA,NA,7,Community,"Torbay, South and West Whole County",Old Age
+2038,15/10/2016,21/02/2017,Choose and Book (GP),Area 15 OPMH Community,OLD AGE PSYCHIATRY,NA,NA,7,Community,"Torbay, South and West Whole County",Old Age
+2045,25/07/2013,25/12/2014,Internal - Community Mental Health Team (Adult Mental Health),Area 18 PPT,PSYCHOTHERAPY,F603,Emotionally unstable personality disorder,7,Community,"Torbay, South and West Whole County",Adult
+2045,17/09/2014,03/01/2015,Internal - Community Mental Health Team (Adult Mental Health),Area 11 MHAT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,7,Community,"Torbay, South and West Whole County",Adult
+2247,03/01/2015,26/02/2015,Other,Area 11 MHAT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+2247,25/01/2016,23/02/2016,Choose and Book (GP),Area 11 MHAT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+2247,28/11/2015,12/08/2016,Community Mental Health Team (Adult),Area 18 PPT,PSYCHOTHERAPY,F603,Emotionally unstable personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+2247,04/06/2016,16/07/2016,General Medical Practitioner,Area 11 MHAT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+2247,10/02/2017,14/02/2017,Choose and Book (GP),Area 11 MHAT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+2247,06/12/2016,07/12/2016,Community Mental Health Team (Adult),Area 12 CMHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+2247,27/01/2017,23/11/2017,Community Mental Health Team (Adult),Area 12 CMHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+2271,08/02/2014,30/10/2015,General Medical Practitioner,Area 33 MHAR,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,7,Community,"Torbay, South and West Whole County",Adult
+2271,27/02/2015,05/03/2015,General Medical Practitioner,Area 11 MHAT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,7,Community,"Torbay, South and West Whole County",Adult
+2338,31/10/2014,01/01/2015,General Medical Practitioner,Area 11 MHAT,ADULT MENTAL ILLNESS,F600,Paranoid personality disorder,NA,Community,"Torbay, South and West Whole County",Adult
+2338,29/01/2015,28/03/2015,Other,Area 11 MHAT,ADULT MENTAL ILLNESS,F600,Paranoid personality disorder,NA,Community,"Torbay, South and West Whole County",Adult
+2344,23/08/2012,12/02/2016,General Medical Practitioner,Area 10 OPMH Community,OLD AGE PSYCHIATRY,NA,NA,8,Community,"Torbay, South and West Whole County",Old Age
+2344,20/10/2015,21/10/2015,Accident And Emergency Department,Area 32 Liaison Service,LIAISON PSYCHIATRY,NA,NA,8,Community,"Torbay, South and West Whole County",Adult
+2491,26/12/2013,08/11/2015,Internal - Inpatient Service (Adult Mental Health),Area 33 MHAR,ADULT MENTAL ILLNESS,NA,NA,8,Community,"Torbay, South and West Whole County",Adult
+2491,14/11/2015,15/11/2015,General Medical Practitioner,Area 32 CRHT,ADULT MENTAL ILLNESS,NA,NA,8,Community,"Torbay, South and West Whole County",Adult
+2491,22/11/2015,26/06/2016,General Medical Practitioner,Area 33 MHAR,ADULT MENTAL ILLNESS,NA,NA,8,Community,"Torbay, South and West Whole County",Adult
+2491,07/11/2015,01/12/2015,Inpatient Service (Adult),Area 32 AMHP,ADULT MENTAL ILLNESS,NA,NA,8,Community,"Torbay, South and West Whole County",Adult
+2544,04/01/2015,22/05/2015,Police,Area 11 MHAT,ADULT MENTAL ILLNESS,NA,NA,7,Community,"Torbay, South and West Whole County",Adult
+2544,01/04/2016,17/09/2016,Choose and Book (GP),Area 11 MHAT,ADULT MENTAL ILLNESS,NA,NA,7,Community,"Torbay, South and West Whole County",Adult
+2700,25/06/2014,14/02/2016,Internal - Community Mental Health Team (Adult Mental Health),Area 33 MHAR,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,7,Community,"Torbay, South and West Whole County",Adult
+2700,04/05/2015,04/05/2015,Accident And Emergency Department,Area 32 Liaison Service,LIAISON PSYCHIATRY,F603,Emotionally unstable personality disorder,7,Community,"Torbay, South and West Whole County",Adult
+2700,12/09/2015,13/09/2015,General Medical Practitioner,Area 11 MHAT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,7,Community,"Torbay, South and West Whole County",Adult
+2700,12/11/2015,15/11/2015,Accident And Emergency Department,Area 32 CRHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,7,Community,"Torbay, South and West Whole County",Adult
+2700,03/12/2015,03/12/2015,General Medical Practitioner,Area 32 CRHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,7,Community,"Torbay, South and West Whole County",Adult
+2859,14/11/2011,14/12/2014,Internal referral,Area 30 PAR STEP,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 2,Adult
+2859,17/02/2015,19/02/2015,General Medical Practitioner,Area 30 AMHP,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 2,Adult
+2859,30/03/2015,01/04/2015,Internal - Inpatient Service (Adult Mental Health),Area 30 AMHP,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 2,Adult
+2859,29/04/2015,22/07/2015,Internal - Inpatient Service (Adult Mental Health),Area 30 PAR,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 2,Adult
+2859,11/11/2015,20/09/2016,General Medical Practitioner,Area 30 PAR,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 2,Adult
+2970,09/05/2016,08/08/2016,Choose and Book (GP),Area 11 MHAT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,7,Community,"Torbay, South and West Whole County",Adult
+2970,25/07/2016,NA,Community Mental Health Team (Adult),Area 18 PPT,PSYCHOTHERAPY,F603,Emotionally unstable personality disorder,7,Community,"Torbay, South and West Whole County",Adult
+3061,06/02/2014,NA,General Medical Practitioner,Area 26 CMHT,ADULT MENTAL ILLNESS,NA,NA,8,Community,Locality 2,Adult
+3061,21/07/2015,21/07/2015,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,NA,NA,8,Community,Locality 2,Adult
+3061,26/08/2015,10/11/2015,Community Mental Health Team (Adult),Area 30 Area 29 PPT,PSYCHOTHERAPY,NA,NA,8,Community,Locality 2,Adult
+3061,05/10/2015,NA,Community Mental Health Team (Adult),Area 30 Area 29 PPT,PSYCHOTHERAPY,NA,NA,8,Community,Locality 2,Adult
+3061,25/12/2015,25/12/2015,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,NA,NA,8,Community,Locality 2,Adult
+3061,21/12/2015,22/12/2015,DGH Wards,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,NA,NA,8,Community,Locality 2,Adult
+3061,02/05/2017,02/05/2017,Drug Action Team/Drug Misuse Agency,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,NA,NA,8,Community,Locality 2,Adult
+3136,15/12/2013,05/10/2014,Internal - Community Mental Health Team (Adult Mental Health),Area 18 PPT,PSYCHOTHERAPY,NA,NA,7,Community,"Torbay, South and West Whole County",Adult
+3136,03/02/2016,09/06/2016,Choose and Book (GP),Area 11 MHAT,ADULT MENTAL ILLNESS,NA,NA,7,Community,"Torbay, South and West Whole County",Adult
+3136,25/06/2016,06/08/2016,Self Referral,Area 16 Community Mental Health,ADULT MENTAL ILLNESS,NA,NA,7,Community,"Torbay, South and West Whole County",Adult
+3136,21/02/2017,16/10/2017,Choose and Book (GP),Area 11 MHAT,ADULT MENTAL ILLNESS,NA,NA,7,Community,"Torbay, South and West Whole County",Adult
+3136,16/10/2017,NA,Community Mental Health Team (Adult),Area 16 Community Mental Health,ADULT MENTAL ILLNESS,NA,NA,7,Community,"Torbay, South and West Whole County",Adult
+3300,29/02/2012,NA,General Medical Practitioner,Area 4 CMHT,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 2,Adult
+3370,21/10/2013,24/03/2015,Internal - Community Mental Health Team (Adult Mental Health),Personality Disorders Service,PSYCHOTHERAPY,NA,NA,8,Community,Whole County,Adult
+3370,29/09/2013,16/04/2016,Internal - Community Mental Health Team (Adult Mental Health),Area 30 PAR,ADULT MENTAL ILLNESS,NA,NA,8,Community,Locality 2,Adult
+3370,30/03/2016,NA,Community Mental Health Team (Adult),Area 26 CMHT,ADULT MENTAL ILLNESS,NA,NA,8,Community,Locality 2,Adult
+3370,23/09/2016,25/09/2016,General Medical Practitioner,Area 30 CRHT,ADULT MENTAL ILLNESS,NA,NA,8,Community,Locality 2,Adult
+3370,25/12/2016,25/12/2016,DGH Wards,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,NA,NA,8,Community,Locality 2,Adult
+3370,12/03/2017,NA,Community Mental Health Team (Adult),Area 30 Area 29 PPT,PSYCHOTHERAPY,NA,NA,8,Community,Locality 2,Adult
+3370,30/05/2017,30/05/2017,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,NA,NA,8,Community,Locality 2,Adult
+3370,21/07/2017,26/07/2017,Emergency Medical Unit,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,NA,NA,8,Community,Locality 2,Adult
+3471,15/11/2014,30/11/2014,Other,Area 11 MHAT,ADULT MENTAL ILLNESS,F608,Other specific personality disorders,8,Community,"Torbay, South and West Whole County",Adult
+3471,26/10/2014,06/08/2016,Internal - Community Mental Health Team (Adult Mental Health),Area 18 PPT,PSYCHOTHERAPY,F608,Other specific personality disorders,8,Community,"Torbay, South and West Whole County",Adult
+3471,24/11/2014,02/12/2014,Internal - Community Mental Health Team (Adult Mental Health),Area 11 MHAT,ADULT MENTAL ILLNESS,F608,Other specific personality disorders,8,Community,"Torbay, South and West Whole County",Adult
+3471,31/10/2015,01/11/2015,Police,Area 32 PAMS,ADULT MENTAL ILLNESS,F608,Other specific personality disorders,8,Community,"Torbay, South and West Whole County",Adult
+3471,16/01/2016,NA,Community Mental Health Team (Adult),Area 17 CMHT,ADULT MENTAL ILLNESS,F608,Other specific personality disorders,8,Community,"Torbay, South and West Whole County",Adult
+3514,19/02/2014,02/10/2015,Internal - Community Mental Health Team (Adult Mental Health),Autistic Spectrum Condition Service,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,NA,Community,Whole County,Adult
+3545,25/11/2014,16/01/2015,Other,Area 24 MHAT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,NA,Community,Locality 1,Adult
+3582,30/03/2015,20/05/2015,General Medical Practitioner,Area 15 OPMH Community,OLD AGE PSYCHIATRY,F61,Mixed and other personality disorders,NA,Community,"Torbay, South and West Whole County",Old Age
+3582,14/09/2015,05/11/2015,General Medical Practitioner,Area 15 OPMH Community,OLD AGE PSYCHIATRY,F61,Mixed and other personality disorders,NA,Community,"Torbay, South and West Whole County",Old Age
+3582,08/02/2017,29/05/2017,Choose and Book (GP),Area 15 OPMH Community,OLD AGE PSYCHIATRY,F61,Mixed and other personality disorders,NA,Community,"Torbay, South and West Whole County",Old Age
+3654,12/01/2013,22/07/2016,Internal - Transfer by graduation: CAMHS to Adult Mental Health Services,Area 16 Community Mental Health,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,7,Community,"Torbay, South and West Whole County",Adult
+3654,28/09/2013,23/05/2016,Internal - Transfer by graduation: CAMHS to Adult Mental Health Services,Area 18 PPT,PSYCHOTHERAPY,F603,Emotionally unstable personality disorder,7,Community,"Torbay, South and West Whole County",Adult
+3654,17/02/2017,07/04/2017,Choose and Book (GP),Area 11 MHAT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,7,Community,"Torbay, South and West Whole County",Adult
+3654,05/02/2017,NA,Community Mental Health Team (Adult),Area 12 CMHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,7,Community,"Torbay, South and West Whole County",Adult
+3688,04/06/2015,04/06/2015,Accident And Emergency Department,Area 32 PAMS,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+3688,03/08/2015,03/08/2015,Community Mental Health Team (Adult),Area 32 AMHP,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+3688,15/12/2015,15/12/2015,Police,Area 32 PAMS,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+3688,10/11/2015,15/11/2015,Community Mental Health Team (Adult),Area 10 CRHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+3688,04/12/2015,09/12/2015,Accident And Emergency Department,Area 32 Liaison Service,LIAISON PSYCHIATRY,F603,Emotionally unstable personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+3688,30/11/2015,02/12/2015,Community Mental Health Team (Adult),Area 10 CRHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+3688,03/12/2015,07/12/2015,Inpatient Service (Adult),Area 10 CRHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+3688,29/01/2016,31/01/2016,Accident And Emergency Department,Area 32 Liaison Service,LIAISON PSYCHIATRY,F603,Emotionally unstable personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+3688,03/02/2016,10/02/2016,Inpatient Service (Adult),Area 10 CRHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+3688,23/10/2016,25/10/2016,Police,Area 10 CRHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+3688,12/10/2016,24/02/2017,Inpatient Service (Adult),Area 10 Community Mental Health,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+3688,23/11/2016,16/12/2016,Inpatient Service (Adult),Area 10 AMHP,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+3688,10/12/2016,14/01/2017,Police,Area 35 Liaison and Diversion Team,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Whole County,Adult
+3688,25/07/2017,25/07/2017,Police,Area 35 Emergency Duty Team,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Whole County,Adult
+3688,15/07/2017,NA,Community Mental Health Team (OA),Area 10 Community Mental Health,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+3688,28/07/2017,30/07/2017,General Medical Practitioner,Area 10 CRHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+3688,13/11/2017,NA,Community Mental Health Team (Adult),Area 18 PPT,PSYCHOTHERAPY,F603,Emotionally unstable personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+3688,03/12/2017,15/12/2017,Police,Area 32 AMHP,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+3799,26/12/2012,NA,General Medical Practitioner,Gender Identity and Sexual Therapy,ADULT MENTAL ILLNESS,NA,NA,8,Community,Whole County,Adult
+3799,29/06/2016,15/07/2016,Choose and Book (GP),Area 24 MHAT,ADULT MENTAL ILLNESS,NA,NA,8,Community,Locality 1,Adult
+3799,21/08/2017,NA,Choose and Book (GP),Area 24 MHAT,ADULT MENTAL ILLNESS,NA,NA,8,Community,Locality 1,Adult
+3799,30/09/2017,14/12/2017,Community Mental Health Team (Adult),Area 12 CMHT,ADULT MENTAL ILLNESS,NA,NA,8,Community,Locality 2,Adult
+3851,19/07/2013,21/12/2014,Other,Area 33 MHAR,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+3958,04/02/2016,18/02/2016,General Medical Practitioner,Area 10 CRHT,ADULT MENTAL ILLNESS,NA,NA,7,Community,"Torbay, South and West Whole County",Adult
+3980,17/06/2015,15/07/2015,Other,Area 25 MHAT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 2,Adult
+3980,01/09/2016,01/09/2016,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F603,Emotionally unstable personality disorder,8,Community,Locality 2,Adult
+4004,13/11/2016,15/01/2017,General Medical Practitioner,Area 24 MHAT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,NA,Community,Locality 1,Adult
+4065,17/07/2013,NA,Other,Area 19 CMHT,ADULT MENTAL ILLNESS,NA,NA,8,Community,Locality 2,Adult
+4065,21/11/2014,03/01/2015,Internal - Community Mental Health Team (Adult Mental Health),Area 30 Area 29 PPT,PSYCHOTHERAPY,NA,NA,8,Community,Locality 2,Adult
+4065,29/10/2014,03/12/2014,Internal - Community Mental Health Team (Adult Mental Health),Area 30 Area 29 PPT,PSYCHOTHERAPY,NA,NA,8,Community,Locality 2,Adult
+4065,22/12/2014,23/12/2014,Internal - Community Mental Health Team (Adult Mental Health),Area 29 CRHT,ADULT MENTAL ILLNESS,NA,NA,8,Community,Locality 2,Adult
+4065,19/08/2017,NA,Community Mental Health Team (Adult),Area 30 Area 29 PPT,PSYCHOTHERAPY,NA,NA,8,Community,Locality 2,Adult
+4119,27/08/2013,20/01/2015,Other,Area 13 MHAR,ADULT MENTAL ILLNESS,NA,NA,7,Community,"Torbay, South and West Whole County",Adult
+4119,05/10/2016,03/01/2017,Choose and Book (Other),Area 11 MHAT,ADULT MENTAL ILLNESS,NA,NA,7,Community,"Torbay, South and West Whole County",Adult
+4119,12/12/2016,26/01/2017,Community Mental Health Team (Adult),Area 18 PPT,PSYCHOTHERAPY,NA,NA,7,Community,"Torbay, South and West Whole County",Adult
+4119,08/02/2017,NA,Community Mental Health Team (Adult),Area 18 PPT,PSYCHOTHERAPY,NA,NA,7,Community,"Torbay, South and West Whole County",Adult
+4201,14/07/2017,14/09/2017,Choose and Book (GP),Area 11 MHAT,ADULT MENTAL ILLNESS,F609,"Personality disorder, unspecified",8,Community,"Torbay, South and West Whole County",Adult
+4201,14/09/2017,NA,Community Mental Health Team (Adult),Area 12 CMHT,ADULT MENTAL ILLNESS,F609,"Personality disorder, unspecified",8,Community,"Torbay, South and West Whole County",Adult
+4306,15/09/2014,27/01/2015,Other,Area 7 MHAR,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 2,Adult
+4389,31/10/2013,25/10/2014,Other,Area 23 Perinatal Service,PERINATAL,F603,Emotionally unstable personality disorder,NA,Community,Locality 1,Adult
+4389,14/09/2016,14/09/2016,Accident And Emergency Department,Area 23 Liaison Service,LIAISON PSYCHIATRY,F603,Emotionally unstable personality disorder,NA,Community,Locality 1,Adult
+4456,24/05/2014,24/09/2016,Other,Area 31 Adult Community Sector B,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 1,Adult
+4456,18/01/2015,17/08/2015,Internal - Community Mental Health Team (Adult Mental Health),Area 23 PPT,PSYCHOTHERAPY,NA,NA,7,Community,Locality 1,Adult
+4474,14/04/2015,15/04/2015,Accident And Emergency Department,Area 30 Liaison Service,LIAISON PSYCHIATRY,F603,Emotionally unstable personality disorder,8,Community,Locality 2,Adult
+4474,26/04/2015,13/06/2015,Other,Area 27 MHAR,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 2,Adult
+4474,14/04/2015,14/04/2015,Internal - Community Mental Health Team (Adult Mental Health),Area 29 CRHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 2,Adult
+4474,18/05/2015,19/06/2015,Internal - Inpatient Service (Adult Mental Health),Area 29 CRHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 2,Adult
+4474,13/08/2015,15/08/2015,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F603,Emotionally unstable personality disorder,8,Community,Locality 2,Adult
+4474,02/08/2015,07/08/2015,Accident And Emergency Department,Area 30 CRHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 2,Adult
+4474,16/12/2015,28/04/2017,General Medical Practitioner,Area 26 CMHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 2,Adult
+4474,04/05/2016,22/04/2017,Community Mental Health Team (Adult),Area 30 Area 29 PPT,PSYCHOTHERAPY,F603,Emotionally unstable personality disorder,8,Community,Locality 2,Adult
+4523,24/05/2014,04/01/2015,Internal - Community Mental Health Team (Adult Mental Health),Area 18 PPT,PSYCHOTHERAPY,NA,NA,8,Community,"Torbay, South and West Whole County",Adult
+4523,08/05/2015,NA,Other,Area 12 CMHT,ADULT MENTAL ILLNESS,NA,NA,8,Community,"Torbay, South and West Whole County",Adult
+4523,10/01/2016,14/01/2016,Accident And Emergency Department,Area 32 Liaison Service,LIAISON PSYCHIATRY,NA,NA,8,Community,"Torbay, South and West Whole County",Adult
+4523,30/03/2016,NA,Stepped Up To Psychological Therapies,Area 18 PPT,PSYCHOTHERAPY,NA,NA,8,Community,"Torbay, South and West Whole County",Adult
+4523,05/08/2017,NA,General Medical Practitioner,Autistic Spectrum Condition Service,ADULT MENTAL ILLNESS,NA,NA,8,Community,Whole County,Adult
+4663,17/06/2014,13/02/2015,Other,Area 20 OPMH Community,OLD AGE PSYCHIATRY,NA,NA,7,Community,Locality 1,Old Age
+4663,23/01/2016,06/02/2016,Choose and Book (GP),Area 23 OPMH Community,OLD AGE PSYCHIATRY,NA,NA,7,Community,Locality 1,Old Age
+4812,21/10/2014,26/09/2015,General Medical Practitioner,Area 34 MHAR,ADULT MENTAL ILLNESS,NA,NA,8,Community,Locality 2,Adult
+4812,14/10/2014,15/10/2014,Internal - Community Mental Health Team (Adult Mental Health),Area 29 CRHT,ADULT MENTAL ILLNESS,NA,NA,8,Community,Locality 2,Adult
+4812,14/12/2014,17/12/2014,Internal - Inpatient Service (Adult Mental Health),Area 29 CRHT,ADULT MENTAL ILLNESS,NA,NA,8,Community,Locality 2,Adult
+4812,25/08/2015,27/08/2015,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,NA,NA,8,Community,Locality 2,Adult
+4812,16/08/2016,12/12/2016,General Medical Practitioner,Area 8 CMHT,ADULT MENTAL ILLNESS,NA,NA,8,Community,Locality 1,Adult
+4812,09/02/2017,19/02/2017,General Medical Practitioner,Area 29 CRHT,ADULT MENTAL ILLNESS,NA,NA,8,Community,Locality 2,Adult
+4812,09/11/2017,NA,Choose and Book (Other),Area 24 MHAT,ADULT MENTAL ILLNESS,NA,NA,8,Community,Locality 1,Adult
+4873,23/10/2014,15/12/2014,Other,Area 25 MHAT,ADULT MENTAL ILLNESS,F601,Schizoid personality disorder,NA,Community,Locality 2,Adult
+4891,27/12/2014,04/02/2015,Other,Area 11 MHAT,ADULT MENTAL ILLNESS,NA,NA,7,Community,"Torbay, South and West Whole County",Adult
+4891,19/01/2015,16/03/2015,Internal - Community Mental Health Team (Adult Mental Health),Area 11 MHAT,ADULT MENTAL ILLNESS,NA,NA,7,Community,"Torbay, South and West Whole County",Adult
+4891,09/08/2016,10/08/2016,General Medical Practitioner,Area 10 CRHT,ADULT MENTAL ILLNESS,NA,NA,7,Community,"Torbay, South and West Whole County",Adult
+4891,05/11/2016,22/11/2017,Choose and Book (GP),Area 11 MHAT,ADULT MENTAL ILLNESS,NA,NA,7,Community,"Torbay, South and West Whole County",Adult
+4891,11/03/2017,NA,Community Mental Health Team (Adult),Area 16 Community Mental Health,ADULT MENTAL ILLNESS,NA,NA,7,Community,"Torbay, South and West Whole County",Adult
+4937,20/10/2014,29/05/2015,Other,Area 11 MHAT,ADULT MENTAL ILLNESS,NA,NA,7,Community,"Torbay, South and West Whole County",Adult
+4937,25/12/2015,06/04/2016,General Medical Practitioner,Area 11 MHAT,ADULT MENTAL ILLNESS,NA,NA,7,Community,"Torbay, South and West Whole County",Adult
+4937,11/05/2016,22/07/2016,Choose and Book (GP),Area 11 MHAT,ADULT MENTAL ILLNESS,NA,NA,7,Community,"Torbay, South and West Whole County",Adult
+4937,20/07/2016,NA,Community Mental Health Team (Adult),Area 21 STEP,ADULT MENTAL ILLNESS,NA,NA,7,Community,"Torbay, South and West Whole County",Adult
+4937,24/09/2016,25/09/2016,Accident And Emergency Department,Area 32 CRHT,ADULT MENTAL ILLNESS,NA,NA,7,Community,"Torbay, South and West Whole County",Adult
+4937,27/10/2016,09/12/2016,Community Mental Health Team (Adult),Area 18 PPT,PSYCHOTHERAPY,NA,NA,7,Community,"Torbay, South and West Whole County",Adult
+4937,03/05/2017,NA,Community Mental Health Team (Adult),Area 18 PPT,PSYCHOTHERAPY,NA,NA,7,Community,"Torbay, South and West Whole County",Adult
+4987,14/10/2014,03/11/2014,General Medical Practitioner,Area 30 CRHT,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 2,Adult
+4987,30/12/2014,19/01/2017,Self Referral,WorkWays,ADULT MENTAL ILLNESS,NA,NA,7,Community,Whole County,Adult
+4987,24/03/2015,09/09/2016,Other,Area 6 MHAR,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 2,Adult
+4987,08/06/2016,08/06/2016,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,NA,NA,7,Community,Locality 2,Adult
+4987,01/11/2016,02/11/2016,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,NA,NA,7,Community,Locality 2,Adult
+4987,02/12/2016,04/08/2017,General Medical Practitioner,Area 4 CMHT,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 2,Adult
+4987,28/02/2017,28/02/2017,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,NA,NA,7,Community,Locality 2,Adult
+4987,25/10/2017,21/11/2017,Choose and Book (GP),Area 25 MHAT,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 2,Adult
+5006,02/01/2015,22/01/2015,Other,Area 15 OPMH Community,OLD AGE PSYCHIATRY,NA,NA,8,Community,"Torbay, South and West Whole County",Old Age
+5006,30/08/2015,02/09/2015,DGH Wards,Area 22 CRHT,ADULT MENTAL ILLNESS,NA,NA,8,Community,"Torbay, South and West Whole County",Adult
+5006,01/11/2015,25/01/2016,Community Mental Health Team (Adult),Area 15 OPMH Community,OLD AGE PSYCHIATRY,NA,NA,8,Community,"Torbay, South and West Whole County",Old Age
+5006,09/11/2015,17/11/2015,Community Mental Health Team (OA),Area 22 CRHT,ADULT MENTAL ILLNESS,NA,NA,8,Community,"Torbay, South and West Whole County",Adult
+5035,01/11/2014,14/11/2014,Other,Area 25 MHAT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,NA,Community,Locality 2,Adult
+5035,30/06/2015,15/03/2016,General Medical Practitioner,Area 25 MHAT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,NA,Community,Locality 2,Adult
+5035,10/02/2016,08/03/2016,Community Mental Health Team (Adult),Area 30 CRHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,NA,Community,Locality 2,Adult
+5035,21/01/2016,03/03/2016,Community Mental Health Team (Adult),Area 6 MHAR,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,NA,Community,Locality 2,Adult
+5035,01/01/2016,04/01/2016,Crisis Resolution Home Treatment Team,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F603,Emotionally unstable personality disorder,NA,Community,Locality 2,Adult
+5035,14/03/2016,22/03/2016,Accident And Emergency Department,Area 30 AMHP,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,NA,Community,Locality 2,Adult
+5035,23/03/2016,23/03/2016,Police,Area 35 Liaison and Diversion Team,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,NA,Community,Whole County,Adult
+5035,22/03/2016,31/03/2016,General Medical Practitioner,Area 25 MHAT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,NA,Community,Locality 2,Adult
+5035,24/05/2016,22/08/2016,Community Mental Health Team (Adult),Area 6 MHAR,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,NA,Community,Locality 2,Adult
+5224,10/05/2015,31/10/2016,Other,Area 6 MHAR,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 2,Adult
+5224,03/06/2015,19/07/2017,Internal - Community Mental Health Team (Adult Mental Health),Area 30 Area 29 PPT,PSYCHOTHERAPY,NA,NA,7,Community,Locality 2,Adult
+5224,08/05/2015,19/06/2015,Other,Area 30 Perinatal Service,PERINATAL,NA,NA,7,Community,Locality 2,Adult
+5224,02/07/2015,29/07/2015,Internal - Community Mental Health Team (Adult Mental Health),Area 30 CRHT,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 2,Adult
+5224,27/04/2015,24/10/2016,Self Referral,WorkWays,ADULT MENTAL ILLNESS,NA,NA,7,Community,Whole County,Adult
+5224,04/10/2016,05/10/2016,General Medical Practitioner,Area 25 MHAT,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 2,Adult
+5227,22/03/2015,19/05/2015,Other,Area 11 MHAT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+5227,24/05/2015,24/05/2015,Other,Area 32 Liaison Service,LIAISON PSYCHIATRY,F603,Emotionally unstable personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+5227,26/07/2015,02/05/2016,Internal - Inpatient Service (Older People),Area 33 MHAR,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+5227,27/08/2015,NA,Inpatient Service (Older People),Area 32 OPMH Community,OLD AGE PSYCHIATRY,F603,Emotionally unstable personality disorder,8,Community,"Torbay, South and West Whole County",Old Age
+5227,29/01/2016,03/02/2016,Police,Area 35 Liaison and Diversion Team,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Whole County,Adult
+5227,02/01/2016,15/01/2016,Community Mental Health Team (OA),Area 32 AMHP,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+5227,23/01/2016,13/02/2016,Inpatient Service (Older People),Area 32 AMHP,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+5227,16/06/2016,21/07/2016,Inpatient Service (Older People),Area 18 PPT,PSYCHOTHERAPY,F603,Emotionally unstable personality disorder,8,Community,"Torbay, South and West Whole County",Adult
+5227,26/08/2016,07/06/2017,Community Mental Health Team (Adult),Personality Disorders Service,PSYCHOTHERAPY,F603,Emotionally unstable personality disorder,8,Community,Whole County,Adult
+5281,15/04/2015,16/04/2015,General Medical Practitioner,Area 29 CRHT,ADULT MENTAL ILLNESS,NA,NA,8,Community,Locality 2,Adult
+5281,05/05/2015,11/06/2015,General Medical Practitioner,Area 25 MHAT,ADULT MENTAL ILLNESS,NA,NA,8,Community,Locality 2,Adult
+5281,30/05/2015,30/05/2015,Other,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,NA,NA,8,Community,Locality 2,Adult
+5281,29/09/2015,29/09/2015,Emergency Medical Unit,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,NA,NA,8,Community,Locality 2,Adult
+5281,08/12/2015,24/04/2017,Community Mental Health Team (Adult),Area 19 CMHT,ADULT MENTAL ILLNESS,NA,NA,8,Community,Locality 2,Adult
+5345,31/05/2015,14/12/2016,General Medical Practitioner,Gender Identity and Sexual Therapy,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,NA,Community,Whole County,Adult
+5345,14/07/2016,15/07/2016,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F603,Emotionally unstable personality disorder,NA,Community,Locality 2,Adult
+5345,02/09/2016,03/09/2016,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F603,Emotionally unstable personality disorder,NA,Community,Locality 2,Adult
+5345,12/11/2016,12/11/2016,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F603,Emotionally unstable personality disorder,NA,Community,Locality 2,Adult
+5345,09/10/2016,10/10/2016,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,F603,Emotionally unstable personality disorder,NA,Community,Locality 2,Adult
+5437,08/09/2015,05/11/2015,Choose and Book (GP),Area 24 MHAT,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 1,Adult
+5437,26/11/2015,12/09/2016,Community Mental Health Team (Adult),Area 30 Area 29 PPT,PSYCHOTHERAPY,NA,NA,7,Community,Locality 2,Adult
+5437,20/09/2015,13/11/2015,Police,Area 35 Liaison and Diversion Team,ADULT MENTAL ILLNESS,NA,NA,7,Community,Whole County,Adult
+5437,10/11/2015,20/01/2016,General Medical Practitioner,Area 25 MHAT,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 2,Adult
+5437,28/02/2017,01/04/2017,Choose and Book (GP),Area 25 MHAT,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 2,Adult
+5437,03/02/2018,NA,Choose and Book (GP),Area 25 MHAT,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 2,Adult
+5481,02/08/2015,25/09/2015,Choose and Book (GP),Area 25 MHAT,ADULT MENTAL ILLNESS,NA,NA,8,Community,Locality 2,Adult
+5481,01/11/2015,25/06/2016,Community Mental Health Team (Adult),Area 30 PAR STEP,ADULT MENTAL ILLNESS,NA,NA,8,Community,Locality 2,Adult
+5481,30/01/2016,27/02/2016,Community Mental Health Team (Adult),Area 30 Area 29 PPT,PSYCHOTHERAPY,NA,NA,8,Community,Locality 2,Adult
+5482,06/09/2015,06/09/2015,Accident And Emergency Department,Area 32 Liaison Service,LIAISON PSYCHIATRY,NA,NA,7,Community,"Torbay, South and West Whole County",Adult
+5482,30/08/2015,NA,Prison,Forensics,FORENSIC PSYCHIATRY,NA,NA,7,Community,Whole County,Adult
+5482,27/09/2015,28/09/2015,DGH Wards,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,NA,NA,7,Community,Locality 2,Adult
+5482,21/09/2016,NA,Independent - Med Secure Inpatients,IPP Management,FORENSIC PSYCHIATRY,NA,NA,7,Community,Whole County,Adult
+5507,06/11/2015,06/05/2017,Community Mental Health Team (CAMHS),Area 3a CMHT,ADULT MENTAL ILLNESS,NA,NA,8,Community,Locality 2,Adult
+5507,04/10/2016,04/10/2016,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,NA,NA,8,Community,Locality 2,Adult
+5519,10/09/2015,15/09/2015,DGH Wards,Area 23 Liaison Service,LIAISON PSYCHIATRY,NA,NA,7,Community,Locality 1,Adult
+5519,17/10/2015,23/10/2016,Community Mental Health Team (Adult),Area 23 MHAR,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 1,Adult
+5519,31/08/2015,01/01/2016,Inpatient Service (Adult),Link Centre Area 2,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 1,Adult
+5519,31/08/2015,09/09/2015,Inpatient Service (Adult),Area 23 CRHT,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 1,Adult
+5519,22/01/2016,04/12/2016,Community Mental Health Team (Adult),Area 23 Education Link,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 1,Adult
+5519,10/10/2017,25/11/2017,General Medical Practitioner,Area 24 MHAT,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 1,Adult
+5602,08/09/2015,08/09/2015,Emergency Medical Unit,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,NA,NA,7,Community,Locality 2,Adult
+5602,21/01/2017,29/01/2017,Choose and Book (GP),Area 27 OPMH Community,OLD AGE PSYCHIATRY,NA,NA,7,Community,Locality 2,Old Age
+5602,22/01/2017,NA,Other Primary Health Care,Area 27 OPMH Community,OLD AGE PSYCHIATRY,NA,NA,7,Community,Locality 2,Old Age
+5602,16/02/2017,24/02/2017,Community Mental Health Team (OA),Area 27 AMHP,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 2,Adult
+5602,14/01/2017,15/01/2017,Other service or agency,Area 35 Emergency Duty Team,ADULT MENTAL ILLNESS,NA,NA,7,Community,Whole County,Adult
+5602,10/04/2017,13/04/2017,Inpatient Service (Older People),Area 27 AMHP,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 2,Adult
+5602,25/06/2017,19/09/2017,Community Mental Health Team (OA),Area 5 Older Peoples Psychology,PSYCHOTHERAPY,NA,NA,7,Community,Locality 2,Adult
+5602,16/10/2017,NA,Community Mental Health Team (OA),Area 27 AMHP,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 2,Adult
+5695,04/01/2016,NA,General Medical Practitioner,Area 23 OPMH Community,OLD AGE PSYCHIATRY,NA,NA,7,Community,Locality 1,Old Age
+5695,31/08/2016,04/09/2016,DGH Wards,Area 23 Liaison Service,LIAISON PSYCHIATRY,NA,NA,7,Community,Locality 1,Adult
+5695,10/09/2016,10/09/2016,Accident And Emergency Department,Area 23 Liaison Service,LIAISON PSYCHIATRY,NA,NA,7,Community,Locality 1,Adult
+5695,31/08/2016,31/08/2016,Accident And Emergency Department,Area 23 Liaison Service,LIAISON PSYCHIATRY,NA,NA,7,Community,Locality 1,Adult
+5695,09/08/2017,10/08/2017,Community Mental Health Team (OA),Area 23 CRHT,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 1,Adult
+5695,18/08/2017,20/08/2017,Community Mental Health Team (OA),Area 23 CRHT,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 1,Adult
+5695,06/08/2017,09/08/2017,Inpatient Service (Older People),Area 23 AMHP,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 1,Adult
+5695,05/08/2017,05/08/2017,Inpatient Service (Older People),Area 22 AMHP,ADULT MENTAL ILLNESS,NA,NA,7,Community,"Torbay, South and West Whole County",Adult
+5695,17/11/2017,18/11/2017,Inpatient Service (Adult),Area 23 CRHT,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 1,Adult
+5719,12/12/2015,02/08/2016,General Medical Practitioner,Area 10 OPMH Community,OLD AGE PSYCHIATRY,NA,NA,7,Community,"Torbay, South and West Whole County",Old Age
+5719,16/07/2017,29/07/2017,Choose and Book (GP),Area 10 OPMH Community,OLD AGE PSYCHIATRY,NA,NA,7,Community,"Torbay, South and West Whole County",Old Age
+5793,19/03/2016,24/10/2017,General Medical Practitioner,Autistic Spectrum Condition Service,ADULT MENTAL ILLNESS,NA,NA,7,Community,Whole County,Adult
+5793,18/05/2016,03/08/2016,General Medical Practitioner,Area 32 PAR STEP,ADULT MENTAL ILLNESS,NA,NA,7,Community,"Torbay, South and West Whole County",Adult
+5793,22/07/2017,06/08/2017,Other Primary Health Care,Area 32 Perinatal Service,PERINATAL,NA,NA,7,Community,"Torbay, South and West Whole County",Adult
+5793,17/10/2017,NA,Other service or agency,Area 32 Perinatal Service,PERINATAL,NA,NA,7,Community,"Torbay, South and West Whole County",Adult
+5842,11/04/2016,15/04/2016,Community Mental Health Team (CAMHS),Area 27 AMHP,ADULT MENTAL ILLNESS,NA,NA,8,Community,Locality 2,Adult
+5842,22/06/2016,22/06/2016,Community Mental Health Team (CAMHS),Area 27 AMHP,ADULT MENTAL ILLNESS,NA,NA,8,Community,Locality 2,Adult
+5842,10/04/2016,11/04/2016,Emergency Medical Unit,Area 35 Emergency Duty Team,ADULT MENTAL ILLNESS,NA,NA,8,Community,Whole County,Adult
+5842,23/07/2016,24/07/2016,Inpatient Service (CAMHS),Area 27 AMHP,ADULT MENTAL ILLNESS,NA,NA,8,Community,Locality 2,Adult
+5842,28/09/2016,NA,Other secondary care specialty,Pathfinder,FORENSIC PSYCHIATRY,NA,NA,8,Community,Whole County,Adult
+5842,16/01/2017,NA,Inpatient Service (CAMHS),IPP Management,FORENSIC PSYCHIATRY,NA,NA,8,Community,Whole County,Adult
+5842,07/10/2017,NA,Inpatient Service (Forensics),Forensics,FORENSIC PSYCHIATRY,NA,NA,8,Community,Whole County,Adult
+5865,13/02/2016,04/04/2016,Choose and Book (GP),Area 25 MHAT,ADULT MENTAL ILLNESS,NA,NA,8,Community,Locality 2,Adult
+5865,27/07/2016,27/07/2016,Emergency Medical Unit,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,NA,NA,8,Community,Locality 2,Adult
+5865,02/06/2016,08/06/2016,Choose and Book (GP),Area 25 MHAT,ADULT MENTAL ILLNESS,NA,NA,8,Community,Locality 2,Adult
+5865,28/05/2016,NA,Community Mental Health Team (Adult),Area 3a CMHT,ADULT MENTAL ILLNESS,NA,NA,8,Community,Locality 2,Adult
+5865,23/09/2016,23/09/2016,Emergency Medical Unit,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,NA,NA,8,Community,Locality 2,Adult
+5865,28/08/2016,28/08/2016,Emergency Medical Unit,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,NA,NA,8,Community,Locality 2,Adult
+5865,24/11/2016,24/11/2016,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,NA,NA,8,Community,Locality 2,Adult
+5865,27/11/2016,27/11/2016,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,NA,NA,8,Community,Locality 2,Adult
+5865,27/12/2016,NA,Community Mental Health Team (Adult),Area 30 Area 29 PPT,PSYCHOTHERAPY,NA,NA,8,Community,Locality 2,Adult
+5865,21/02/2017,21/02/2017,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,NA,NA,8,Community,Locality 2,Adult
+5865,13/04/2017,13/04/2017,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,NA,NA,8,Community,Locality 2,Adult
+5910,18/03/2016,20/03/2016,General Medical Practitioner,Area 29 CRHT,ADULT MENTAL ILLNESS,NA,NA,8,Community,Locality 2,Adult
+5910,18/06/2016,18/06/2016,Inpatient Service (Adult),Area 29 CRHT,ADULT MENTAL ILLNESS,NA,NA,8,Community,Locality 2,Adult
+5910,03/05/2016,14/05/2016,Carer,Area 29 CRHT,ADULT MENTAL ILLNESS,NA,NA,8,Community,Locality 2,Adult
+5997,07/08/2016,11/11/2016,Community Mental Health Team (CAMHS),Area 30 PAR STEP,ADULT MENTAL ILLNESS,NA,NA,8,Community,Locality 2,Adult
+5997,16/04/2017,NA,Community Mental Health Team (CAMHS),Area 4 CMHT,ADULT MENTAL ILLNESS,NA,NA,8,Community,Locality 2,Adult
+5997,22/11/2017,22/11/2017,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,NA,NA,8,Community,Locality 2,Adult
+6111,04/09/2016,06/10/2016,Choose and Book (GP),Area 25 MHAT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,NA,Community,Locality 2,Adult
+6111,19/08/2017,03/12/2017,Choose and Book (GP),Area 25 MHAT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,NA,Community,Locality 2,Adult
+6341,12/03/2017,18/06/2017,Out of Area Agency,Area 25 MHAT,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 2,Adult
+6341,07/07/2017,NA,Community Mental Health Team (Adult),Area 4 CMHT,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 2,Adult
+6341,04/12/2017,NA,Self Referral,WorkWays,ADULT MENTAL ILLNESS,NA,NA,7,Community,Whole County,Adult
+6423,28/06/2017,28/06/2017,Accident And Emergency Department,Liaison Psychiatry Area 30,LIAISON PSYCHIATRY,NA,NA,7,Community,Locality 2,Adult
+6423,14/06/2017,18/06/2017,Community Mental Health Team (Adult),Area 12 CMHT,ADULT MENTAL ILLNESS,NA,NA,7,Community,Locality 2,Adult
+6547,10/08/2017,02/11/2017,Choose and Book (Other),Area 11 MHAT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,7,Community,"Torbay, South and West Whole County",Adult
+6547,14/11/2017,NA,Community Mental Health Team (Adult),Area 10 Community Mental Health,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,7,Community,"Torbay, South and West Whole County",Adult
+6569,06/10/2017,30/10/2017,Choose and Book (Other),Area 25 MHAT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,NA,Community,Locality 2,Adult
+6569,24/11/2017,NA,Community Mental Health Team (Adult),Area 28 CMHT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,NA,Community,Locality 2,Adult
+6606,12/11/2017,16/12/2017,General Medical Practitioner,Area 32 Perinatal Service,PERINATAL,NA,NA,8,Community,"Torbay, South and West Whole County",Adult
+6613,17/10/2017,02/11/2017,Choose and Book (GP),Area 24 MHAT,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 1,Adult
+6613,02/12/2017,NA,General Medical Practitioner,Area 31 Adult Community Sector C,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Community,Locality 1,Adult
+89,20/02/2015,24/02/2015,NA,Ward 1,ADULT MENTAL ILLNESS,F609,"Personality disorder, unspecified",8,Inpatient,Locality 1,Adult
+89,10/09/2015,13/09/2015,NA,Ward 2,ADULT MENTAL ILLNESS,F609,"Personality disorder, unspecified",8,Inpatient,Locality 2,Adult
+89,03/07/2015,17/07/2015,NA,Ward 3,ADULT MENTAL ILLNESS,F609,"Personality disorder, unspecified",8,Inpatient,Locality 2,Adult
+89,27/09/2015,04/11/2015,NA,Ward 2,ADULT MENTAL ILLNESS,F609,"Personality disorder, unspecified",8,Inpatient,Locality 2,Adult
+89,14/07/2016,21/08/2016,NA,Ward 2,ADULT MENTAL ILLNESS,F609,"Personality disorder, unspecified",8,Inpatient,Locality 2,Adult
+89,20/09/2016,24/09/2016,NA,Ward 2,ADULT MENTAL ILLNESS,F609,"Personality disorder, unspecified",8,Inpatient,Locality 2,Adult
+89,28/02/2017,14/03/2017,NA,Ward 1,ADULT MENTAL ILLNESS,F609,"Personality disorder, unspecified",8,Inpatient,Locality 1,Adult
+89,02/12/2017,NA,NA,Ward 2,ADULT MENTAL ILLNESS,F609,"Personality disorder, unspecified",8,Inpatient,Locality 2,Adult
+356,22/10/2015,06/11/2015,NA,Ward 4,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,NA,Inpatient,Locality 1,Adult
+364,05/06/2016,07/06/2016,NA,Ward 2,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,7,Inpatient,Locality 2,Adult
+364,01/02/2017,01/02/2017,NA,Ward 4,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,7,Inpatient,Locality 1,Adult
+471,25/10/2016,29/10/2016,NA,Ward 2,ADULT MENTAL ILLNESS,F602,Dissocial personality disorder,NA,Inpatient,Locality 2,Adult
+471,01/11/2016,18/12/2016,NA,Ward 5,ADULT MENTAL ILLNESS,F602,Dissocial personality disorder,NA,Inpatient,"Torbay, South and West Whole County",Adult
+471,25/11/2016,06/01/2017,NA,Ward 2,ADULT MENTAL ILLNESS,F602,Dissocial personality disorder,NA,Inpatient,Locality 2,Adult
+708,19/11/2014,12/12/2014,NA,Ward 2,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Inpatient,Locality 2,Adult
+708,15/01/2015,16/02/2015,NA,Ward 2,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Inpatient,Locality 2,Adult
+708,20/03/2015,28/03/2015,NA,Ward 2,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Inpatient,Locality 2,Adult
+708,07/04/2015,12/04/2015,NA,Ward 3,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Inpatient,Locality 2,Adult
+708,26/07/2015,12/10/2015,NA,Ward 2,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Inpatient,Locality 2,Adult
+708,27/10/2015,31/12/2015,NA,Ward 2,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Inpatient,Locality 2,Adult
+708,05/07/2016,13/07/2016,NA,Ward 5,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Inpatient,"Torbay, South and West Whole County",Adult
+708,07/06/2016,28/08/2016,NA,Ward 3,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Inpatient,Locality 2,Adult
+984,15/03/2017,15/03/2017,NA,Ward 2,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Inpatient,Locality 2,Adult
+1542,13/11/2014,26/04/2015,NA,Ward 4,ADULT MENTAL ILLNESS,F607,Dependent personality disorder,7,Inpatient,Locality 1,Adult
+1542,24/02/2015,03/02/2016,NA,Clinic 1,ADULT MENTAL ILLNESS,F607,Dependent personality disorder,7,Inpatient,Whole County,Adult
+1653,04/01/2015,14/01/2015,NA,Ward 5,ADULT MENTAL ILLNESS,F607,Dependent personality disorder,7,Inpatient,"Torbay, South and West Whole County",Adult
+1653,22/02/2015,16/03/2015,NA,Ward 5,ADULT MENTAL ILLNESS,F607,Dependent personality disorder,7,Inpatient,"Torbay, South and West Whole County",Adult
+1653,25/09/2015,29/09/2015,NA,Ward 5,ADULT MENTAL ILLNESS,F607,Dependent personality disorder,7,Inpatient,"Torbay, South and West Whole County",Adult
+1653,21/08/2016,08/09/2016,NA,Ward 2,ADULT MENTAL ILLNESS,F607,Dependent personality disorder,7,Inpatient,Locality 2,Adult
+1653,11/09/2016,22/02/2017,NA,Ward 5,ADULT MENTAL ILLNESS,F607,Dependent personality disorder,7,Inpatient,"Torbay, South and West Whole County",Adult
+2491,04/11/2015,09/01/2016,NA,Ward 5,ADULT MENTAL ILLNESS,NA,NA,8,Inpatient,"Torbay, South and West Whole County",Adult
+2491,11/02/2016,14/06/2016,NA,Ward 6,OLD AGE PSYCHIATRY,NA,NA,8,Inpatient,"Torbay, South and West Whole County",Old Age
+2859,14/04/2015,11/05/2015,NA,Ward 2,ADULT MENTAL ILLNESS,NA,NA,7,Inpatient,Locality 2,Adult
+3688,26/11/2015,27/11/2015,NA,Ward 3,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Inpatient,Locality 2,Adult
+3688,20/12/2015,03/01/2016,NA,Ward 5,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Inpatient,"Torbay, South and West Whole County",Adult
+3688,12/11/2015,23/11/2015,NA,Ward 5,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Inpatient,"Torbay, South and West Whole County",Adult
+3688,02/01/2016,07/01/2016,NA,Ward 5,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Inpatient,"Torbay, South and West Whole County",Adult
+4474,27/03/2015,09/04/2015,NA,Ward 3,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Inpatient,Locality 2,Adult
+4474,01/07/2015,02/07/2015,NA,Ward 2,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,8,Inpatient,Locality 2,Adult
+4812,22/12/2014,26/12/2014,NA,Ward 3,ADULT MENTAL ILLNESS,NA,NA,8,Inpatient,Locality 2,Adult
+5006,18/08/2015,06/09/2015,NA,Ward 7,OLD AGE PSYCHIATRY,NA,NA,8,Inpatient,Locality 1,Old Age
+5035,03/01/2016,10/01/2016,NA,Ward 3,ADULT MENTAL ILLNESS,F603,Emotionally unstable personality disorder,NA,Inpatient,Locality 2,Adult
+5227,03/05/2015,02/07/2015,NA,Ward 6,OLD AGE PSYCHIATRY,F603,Emotionally unstable personality disorder,8,Inpatient,"Torbay, South and West Whole County",Old Age
+5227,20/01/2016,19/02/2016,NA,Ward 8,OLD AGE PSYCHIATRY,F603,Emotionally unstable personality disorder,8,Inpatient,Locality 2,Old Age
+5227,29/04/2016,07/06/2016,NA,Ward 9,OLD AGE PSYCHIATRY,F603,Emotionally unstable personality disorder,8,Inpatient,Locality 2,Old Age
+5227,08/03/2016,12/06/2016,NA,Ward 6,OLD AGE PSYCHIATRY,F603,Emotionally unstable personality disorder,8,Inpatient,"Torbay, South and West Whole County",Old Age
+5519,19/09/2015,07/10/2015,NA,Ward 4,ADULT MENTAL ILLNESS,NA,NA,7,Inpatient,Locality 1,Adult
+5602,26/01/2017,27/01/2017,NA,Ward 8,OLD AGE PSYCHIATRY,NA,NA,7,Inpatient,Locality 2,Old Age
+5602,20/04/2017,25/05/2017,NA,Ward 9,OLD AGE PSYCHIATRY,NA,NA,7,Inpatient,Locality 2,Old Age
+5602,09/01/2018,NA,NA,Ward 9,OLD AGE PSYCHIATRY,NA,NA,7,Inpatient,Locality 2,Old Age
+5695,01/10/2016,02/10/2016,NA,Ward 9,OLD AGE PSYCHIATRY,NA,NA,7,Inpatient,Locality 2,Old Age
+5695,22/11/2016,17/06/2017,NA,Ward 7,OLD AGE PSYCHIATRY,NA,NA,7,Inpatient,Locality 1,Old Age
+5695,01/08/2017,07/11/2017,NA,Ward 7,OLD AGE PSYCHIATRY,NA,NA,7,Inpatient,Locality 1,Old Age
+5910,11/04/2016,14/04/2016,NA,Ward 2,ADULT MENTAL ILLNESS,NA,NA,8,Inpatient,Locality 2,Adult
+89,12/12/2017,20/12/2016,NA,OOA ward 9,Outliers within NHS Beds (External),F609,"Personality disorder, unspecified",8,OOA,Out-of-Area,Adult
+89,26/12/2017,04/01/2018,NA,OOA ward 1,Private Acute Outliers,F609,"Personality disorder, unspecified",8,OOA,Out-of-Area,Adult
+471,03/10/2016,30/10/2016,NA,OOA ward 2,PICU,F602,Dissocial personality disorder,NA,OOA,Out-of-Area,Adult
+708,12/10/2014,06/11/2014,NA,OOA ward 3,PICU,F603,Emotionally unstable personality disorder,8,OOA,Out-of-Area,Adult
+708,25/05/2015,07/06/2015,NA,OOA ward 4,PICU,F603,Emotionally unstable personality disorder,8,OOA,Out-of-Area,Adult
+708,08/10/2015,30/11/2015,NA,OOA ward 5,PICU,F603,Emotionally unstable personality disorder,8,OOA,Out-of-Area,Adult
+708,16/05/2016,30/07/2016,NA,OOA ward 5,PICU,F603,Emotionally unstable personality disorder,8,OOA,Out-of-Area,Adult
+1653,24/06/2015,02/07/2015,NA,OOA ward 9,Outliers within NHS Beds (External),F607,Dependent personality disorder,7,OOA,Out-of-Area,Adult
+3688,20/11/2015,22/11/2015,NA,Other local bed 1,Step Down Beds (Location 1),F603,Emotionally unstable personality disorder,8,Other local beds,"Torbay, South and West Whole County",Adult
+4474,09/03/2015,04/04/2015,NA,OOA ward 6,Private Acute Outliers,F603,Emotionally unstable personality disorder,8,OOA,Out-of-Area,Adult
+4474,22/06/2015,19/07/2015,NA,Other local bed 2,Step Down Beds (Location 2),F603,Emotionally unstable personality disorder,8,Other local beds,Locality 2,Adult
+5842,06/10/2017,13/11/2017,NA,OOA ward 7,PICU,NA,NA,8,OOA,Out-of-Area,Adult
