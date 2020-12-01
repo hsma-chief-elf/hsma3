@@ -47,6 +47,8 @@ If you are experiencing issues with Jupyter-Lab on your personal computer then y
 
 * Code along 2: Using a basic Prophet model for forecasting [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma-master/hsma/blob/master/12b_simple_forecasting/code_along_lectures/code_along_2_LIVE.ipynb)
 
+* Code along 3: Adding special events to the forecast [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma-master/hsma/blob/master/12b_simple_forecasting/code_along_lectures/code_along_3_LIVE.ipynb)
+
 
 ## Practical Exercises
 
@@ -58,5 +60,7 @@ If you are experiencing issues with Jupyter-Lab on your personal computer then y
 * Code along 1 (with SOLUTIONS): Preprocessing data to Prophet format [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma-master/hsma/blob/master/12b_simple_forecasting/code_along_lectures/code_along_1_SOLUTIONS.ipynb)
 
 * Code along 2 (with SOLUTIONS): Using a basic Prophet model for forecasting [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma-master/hsma/blob/master/12b_simple_forecasting/code_along_lectures/code_along_2_SOLUTIONS.ipynb)
+
+* Code along 3 (with SOLUTIONS): Adding special events to the forecast [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma-master/hsma/blob/master/12b_simple_forecasting/code_along_lectures/code_along_3_SOLUTIONS.ipynb)
 
 
