@@ -52,6 +52,7 @@ If you are experiencing issues with Jupyter-Lab on your personal computer then y
 
 ## Practical Exercises
 
+* Prophet Exercises: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma-master/hsma/blob/master/12b_simple_forecasting/exercises/prophet_exercises.ipynb)
 
 ## Solutions to Exercises
 
@@ -62,5 +63,7 @@ If you are experiencing issues with Jupyter-Lab on your personal computer then y
 * Code along 2 (with SOLUTIONS): Using a basic Prophet model for forecasting [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma-master/hsma/blob/master/12b_simple_forecasting/code_along_lectures/code_along_2_SOLUTIONS.ipynb)
 
 * Code along 3 (with SOLUTIONS): Adding special events to the forecast [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma-master/hsma/blob/master/12b_simple_forecasting/code_along_lectures/code_along_3_SOLUTIONS.ipynb)
+
+* Prophet Exercises (with SOLUTIONS): [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma-master/hsma/blob/master/12b_simple_forecasting/exercises/prophet_exercises_SOLUTIONS.ipynb)
 
 
