@@ -145,10 +145,11 @@ class Trial_Results_Calculator:
         print ("-------------")
         
         # Read in results from each run
-        trial_results_df = pd.read_csv("trial_results.csv")
+        self.trial_results_df = pd.read_csv("trial_results.csv")
         
         # Take average over runs
-        trial_mean_q_time_nurse = trial_results_df["Mean_Q_Time_Nurse"].mean()
+        trial_mean_q_time_nurse = (
+            self.trial_results_df["Mean_Q_Time_Nurse"].mean())
         
         print ("Mean Queuing Time for Nurse over Trial : ",
                round(trial_mean_q_time_nurse, 2))
