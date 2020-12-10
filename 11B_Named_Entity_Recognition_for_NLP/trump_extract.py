@@ -10,7 +10,7 @@ Created on Thu Sep 17 10:23:22 2020
 import spacy
 import en_core_web_sm
 
-# Load the pre-trained model into a variable called nlp
+# Load the pre-trained model as a language into a variable called nlp
 nlp = en_core_web_sm.load()
 
 # Read in the document for which we want to extract named entities

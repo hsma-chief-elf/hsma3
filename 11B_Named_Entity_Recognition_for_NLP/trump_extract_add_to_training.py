@@ -7,6 +7,7 @@ Created on Thu Sep 17 10:23:22 2020
 """
 
 # import spacy and the downloaded en_core_web_sm pre-trained model
+# We're also going to import some spacy utilities here too
 # Also import random for shuffling of training data
 import spacy
 from spacy.util import minibatch, compounding
@@ -42,7 +43,10 @@ for i in range(len(article.ents)):
 ner_pipeline_components = nlp.get_pipe("ner")
 
 # Now let's give it some example sentences, and flag up where the Named
-# Entities are, and what type they are
+# Entities are, and what type they are (the list of lists structure is needed
+# to get this prepared for the correct format for SpaCy).  We're going to
+# set this up ready for the start and end character positions, which we'll
+# default to 0 for each named entity for the moment.
 list_of_training_sentences = [
     "PenCHORD is a fantastic team because Dan Chalk is in it.",
     "Mike Allen loves System Dynamics."
@@ -57,10 +61,15 @@ list_of_named_entities = [[list_of_training_sentences[0],
 
 # Find the start and end character positions of all the named entities in each
 # training sentence
+# For each sublist ([sentence, [list of lists of named entity properties]])
+# ie - for each sentence
 for sublist in list_of_named_entities:
+    # For each list of named entity properties for that sentence
+    # sub_list[1] gives us the [list of lists of named entity properties]
     for ne_prop_list in sublist[1]:
         # The find method returns the index of the starting character in the
-        # string for a given substring
+        # string for a given substring (remember, the sentence is stored
+        # in sublist[0])
         start_char_index = sublist[0].find(ne_prop_list[0])
         
         # We can find the end character index by simply taking length of the
@@ -105,7 +114,7 @@ for sublist in list_of_named_entities:
     
     # For each named entity property list (ie each named entity)
     for ne_prop_list in sublist[1]:
-        # Add elements an indices 1, 2 and 3 (start char, end char, label) as
+        # Add elements at indices 1, 2 and 3 (start char, end char, label) as
         # a tuple and add to the list of tuples we're building
         # This is for the dictionary of entities we need to set up, as
         # explained above.
@@ -186,6 +195,9 @@ print ()
 print ("Test on sentences used for training")
 print ("-----------------------------------")
 
+# We only need the text (sentence) bit of each tuple in training_data here,
+# but we need to acknowledge that there is a second element (which we just
+# refer to as _ here)
 for text, _ in training_data:
     # Apply the SpaCy model to the sentence
     test_doc = nlp(text)
