@@ -26,7 +26,7 @@ You are provided with a conda environment (see environment.yml) that you can use
 
    * `conda env create -f environment.yml`
 
-2. Conda will resolve the enviornment and ask if you wish to install it.  Answer 'y'. Installation will take several minutes.  It installs an environment called `hsma_forecast`.  You need to activate it.
+2. Conda will resolve the enviornment and ask if you wish to install it.  Answer 'y'. Installation will take several minutes.  It installs an environment called `hsma_forecast3`.  You need to activate it.
 
    * `conda activate hsma_forecast3`
 
