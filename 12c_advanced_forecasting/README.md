@@ -1,97 +1,49 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/health-data-science-OR/forecasting/master)
+# Advanced forecasting with Feedforward Neural Networks
+# HSMA 2020
 
-# Making a difference with health data:
-## Forecasting health service demand
+-----
 
-> Forecasting practical materials for **Making a difference with health data** module.
+**Welcome to the third and final section in our series of HSMA forecasting classes**.  In this 1.5 hour class you will be introduced to forecasting using feedforward neural networks.
 
-**Dependencies**
+## Course structure
 
-Please use the provided conda environment
+1. A lecture introducting the theory of forecasting with Neural Networks
+2. Two code-along lectures in Jupyter notebooks 
 
-    conda env create -f environment.yml
+## Learning outcomes
 
-    conda activate hds_forecast
+**By the end of the class you will have**
 
-# Syllabus
+* New tools to appraise and question forecasting studies
+* Hands on experience of manipulating time series in python
+* Hands on experience of producing forecasts using Keras and TensorFlow.
 
-# **RECOMMENDED** Pre-course material
+## Setup for the course
 
-These notebooks offer a refresher in the basics of date handling in numpy, pandas and matplotlib.  
+You are provided with a conda environment (see environment.yml) that you can use to install the dependencies.  To install follow these instructions.
 
-* Handling dates in numpy and pandas: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/01_basics/lectures/1_Lecture_DateTimes.ipynb)
+1. Open an anaconda prompt (or terminal on Mac and Linux) in the same directory as the course files.  Run the following command
 
-* Exploring time series with pandas and matplotlib: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/01_basics/01_lecture_notebooks/2_Lecture_exploring_ts.ipynb)
+   * `conda env create -f environment.yml`
 
-# Computer Lab 1: The basics of forecasting: part 1
+2. Conda will resolve the enviornment and ask if you wish to install it.  Answer 'y'. Installation will take several minutes.  It installs an environment called `hsma_forecast`.  You need to activate it.
 
-## 1.1 Code along notebooks
+   * `conda activate hsma_forecast3`
 
-These notebooks **accompany** the exercises.  They provide example code to help you solve the exercises.
+3. To follow the code along lectures and complete the exercises please use Jupyter-Lab.  To run it enter the following command into your anaconda prompt or terminal (making sure you are in the same directory as the files)
 
-* Loading time series data into pandas: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/01_basics/01_code_along_notebooks/pandas_time_series.ipynb)
+   * `jupyter-lab`
 
-* Naive benchmarks: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/01_basics/01_code_along_notebooks/ca_benchmark_forecasts.ipynb)
+Jupyter will then open.
 
-## 1.2 Exercises
 
-* Naive forecasting exercises [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/01_basics/01_practicals_notebooks/practical_1.ipynb)
+# Launch Notebooks in Google Colab
 
-# Computer Lab  2: The basics of forecasting: part 2
+If you are experiencing issues with Jupyter-Lab on your personal computer then you can also run the notebooks in google colab.  Use the links below to launch them
 
-## 2.1 Code along notebooks
+## Code along lectures
+* Code along 1: Preprocessing data and autoregression basics [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma-master/hsma/blob/master/12c_advanced_forecasting/code_along_lectures/01_autoregression.ipynb)
 
-* Introduction to cross validation [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/01_basics/01_practicals_notebooks/Practical_2_SOLUTIONS.ipynb)
+* Code along 2: Forecasting using a feedforward neural network [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma-master/hsma/blob/master/12c_advanced_forecasting/code_along_lectures/02_autoregression_keras.ipynb)
 
-## 2.1 Exercises
 
-* Time series cross validation [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/01_basics/01_practicals_notebooks/Practical_2.ipynb)
-
-# Computer Lab 3: Forecasting using ARIMA models
-
-# 3.1 Code along notebooks
-
-* Introduction to ARIMA Exercises: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/02_arima/arima_exercises_SOLUTIONS.ipynb)
-
-# 3.2 Exercises
-
-* ARIMA Exercise: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/02_arima/arima_exercises.ipynb)
-
-# Computer Lab 4: Forecasting daily data using Facebook Prophet
-
-## 4.1 Code along notebooks
-
-* Introduction to Prophet Exercises: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/03_prophet/prophet_exercises_SOLUTIONS.ipynb)
-
-## 4.2 Exercises
-
-* Prophet Exercises: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/03_prophet/prophet_exercises_SOLUTIONS.ipynb)
-
-# Computer Labs 5. An introduction to feedforward neural networks
-
-## 5.1. code along lecture notebooks
-
-* Deep Learning 101: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/06_neural_networks/deep_learning_101/lecture_deeplearning_101.ipynb)
-  
-## 5.2 Exercises
-
-* Autoregressive Neural Networks with KERAS. Part 1: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/06_neural_networks/feedforward/keras/autoregression_keras_part1.ipynb)
-
-## 5.3. Optional self study material
-
-* Preprocessing and autoregressive OLS: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/05_autoregression/autoregression1.ipynb)
-
-* Autoregressive Neural Networks PYTORCH. Part 1: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/06_neural_networks/feedforward/pytorch/autoregression_pytorch_part1.ipynb)
-
-# Computer Lab 6: Feedforward neural networks for time series
-
-## 6.1. code along lecture notebooks
-
-* Autoregressive Neural Networks with KERAS: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/06_neural_networks/feedforward/keras/autoregression_keras_part1.ipynb)
-
-## 6.1 Exercises
-* Autoregressive Neural Networks KERAS Part 2: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/06_neural_networks/feedforward/keras/autoregression_keras_part2.ipynb)
-
-## 6.2 Optional self study material
-
-* Autoregressive Neural Networks PYTORCH Part 2: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/06_neural_networks/feedforward/pytorch/autoregression_pytorch_part2.ipynb)
