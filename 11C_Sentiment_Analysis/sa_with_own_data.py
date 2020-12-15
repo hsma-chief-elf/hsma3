@@ -148,7 +148,7 @@ vectorize_layer = TextVectorization(
     output_mode='int',
     output_sequence_length=sequence_length)
 
-# Here's where we specify HOW we will map our text into numbers (integers in
+# Here's where we start the process to map our text into numbers (integers in
 # our case, as we specified above when setting up the vectorize_layer).  We
 # first extract just the review text (ie not the labels as well) to make a 
 # text-only dataset.  We do this by defining and using a 'lambda' function.  

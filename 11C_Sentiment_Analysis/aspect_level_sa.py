@@ -379,7 +379,7 @@ nlp = en_core_web_sm.load()
 dict_noun_chunks = {}
 
 # And we'll have a review index so we can store each list of noun chunks
-# against a review number
+# against a review number.  We'll set the initial index value to 0.
 review_index = 0
 
 # For each review, apply the SpaCy NLP pre-trained model (en_core_web_sm in
