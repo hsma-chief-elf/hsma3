@@ -22,6 +22,7 @@ Created on Thu Oct  8 10:08:17 2020
 
 import re # library for regular expression functions
 import string # library for string functions
+import csv
 
 # Import tensorflow and elements of keras (the API to access tensorflow) that
 # we need
@@ -32,6 +33,7 @@ from tensorflow.keras import losses
 from tensorflow.keras import preprocessing
 from tensorflow.keras.layers.experimental.preprocessing\
     import TextVectorization
+from tensorflow.keras.callbacks import EarlyStopping
 
 # When we push our data through the neural network, we don't want to push
 # everything through at once, as it leads to over-fitting (where the NN gets
@@ -112,8 +114,7 @@ def custom_standardization(input_data):
     # convert everything to lowercase
     lowercase = tf.strings.lower(input_data)
     
-    # replace html tages in the lowercase data with spaces (just line break
-    # tags here)
+    # replace html tages in the lowercase data with spaces
     stripped_html = tf.strings.regex_replace(lowercase, '<br />', ' ')
     
     # remove punctuation from the lower-case html-stripped text, and then
@@ -149,7 +150,7 @@ vectorize_layer = TextVectorization(
     output_mode='int',
     output_sequence_length=sequence_length)
 
-# Here's where we start the process to map our text into numbers (integers in
+# Here's where we specify HOW we will map our text into numbers (integers in
 # our case, as we specified above when setting up the vectorize_layer).  We
 # first extract just the review text (ie not the labels as well) to make a 
 # text-only dataset.  We do this by defining and using a 'lambda' function.  
@@ -269,22 +270,39 @@ model.compile(optimizer='adam',
               loss=tf.keras.losses.BinaryCrossentropy(from_logits=True),
               metrics=['accuracy'])
 
-# Now we need to train the model (a process known as "fitting").  We give
-# it the training data we separated out earlier, and we specify that we want 
-# 10 'epochs' (an epoch is over once all batches of training data have been 
-# pushed through the network).  We also specify the 'validation data' that we 
-# want the model to use to check how well its doing and adjust itself 
-# (hopefully to improve) over time. Remember, we carved off 20% of the training
-# data to use as validation data back at the start.  So we'll use that here.
-# Verbose=1 simply means that the model will report its progress as
-# it learns with an animated progress bar (0 will show you nothing, whilst 2
-# will show you just the epoch number without the progress bar)
+# Now we'll train the model.  When we ran this before (in sa_with_own_data.py)
+# we saw that, whilst loss decreased and accuracy increased in each new epoch,
+# validation loss and accuracy seemed to peak early and not improve much.
+# This indicates overfitting - where the model has learned things that are
+# too specific to the training data, and loses its ability to generalise.
+# One way to combat this is to stop training before this happens.  We could
+# just manually reduce the epochs to try to cut off before the point when 
+# validation accuracy is no longer increasing.  But a better way is to use an
+# EarlyStopping callback, which monitors a given metric, and will
+# automatically terminate the training when that metric no longer seems to be
+# improving.
+# Here, we set up the EarlyStopping callback and ask it to monitor the
+# validation accuracy.  We specify a min_delta, which is the minimum amount
+# accuracy must improve, and if it doesn't improve by at least this amount
+# then the training is terminated.  patience represents the number of epochs
+# to wait until training is stopped, so a patience value of 1 would terminate
+# the training after 1 epoch of no improvement.  Don't forget to import
+# EarlyStopping from tensorflow.keras.callbacks at the start of the code too.
+earlystop_callback = EarlyStopping(
+    monitor='val_accuracy',
+    min_delta=0.01,
+    patience=1)
+
+# Once we've set up the EarlyStopping callback we can proceed as before,
+# except we need to add it as a callback when we call the function to fit the
+# model
 epochs = 10
 
 history = model.fit(
     train_ds,
     validation_data=val_ds,
     epochs=epochs,
+    callbacks=[earlystop_callback],
     verbose=1)
 
 # Now let's evaluate the model on the test dataset (which it hasn't seen yet).
@@ -321,6 +339,32 @@ export_model.compile(
     optimizer='adam',
     loss=losses.BinaryCrossentropy(from_logits=False),
     metrics=['accuracy'])
+
+# EXERCISE 1 SOLUTION
+# Let's read in some new reviews from csv
+list_of_new_reviews = []
+
+with open("ex_1_reviews.csv", "r") as f:
+    reader = csv.reader(f, delimiter=",")
+    
+    for row in reader:
+        list_of_new_reviews.append(row[0])
+        
+for review in list_of_new_reviews:
+    predicted_sentiment = export_model.predict([review])
+    
+    print ("REVIEW : ")
+    print (review)
+    print ("PREDICTED SENTIMENT : ")
+    
+    if predicted_sentiment[0] < 0.25:
+        print ("Confident NEGATIVE : ", predicted_sentiment[0], sep="")
+    elif predicted_sentiment[0] < 0.5:
+        print ("Possible NEGATIVE : ", predicted_sentiment[0], sep="")
+    elif predicted_sentiment[0] < 0.75:
+        print ("Possible POSITIVE : ", predicted_sentiment[0], sep="")
+    else:
+        print ("Confident POSITIVE : ", predicted_sentiment[0], sep="")
 
 # Portions of this code are taken from 
 # https://www.tensorflow.org/tutorials/keras/text_classification
